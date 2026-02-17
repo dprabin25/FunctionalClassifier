@@ -42,7 +42,8 @@ No input files required
 
 # Usage
 Install the required packages and then run the required Rscript (Classifier.R).
-`install.packages("dplyr")
+
+## install.packages("dplyr")
 
 if (!requireNamespace("BiocManager", quietly = TRUE))
   install.packages("BiocManager")
@@ -51,7 +52,7 @@ BiocManager::install(c(
   "AnnotationDbi",
   "org.Hs.eg.db",
   "GO.db"
-))`
+))
 
 
 # Limitations
