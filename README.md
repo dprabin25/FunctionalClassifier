@@ -37,8 +37,8 @@ Bioconductor packages: AnnotationDbi, org.Hs.eg.db, GO.db
 No input files required
 
 # Output files
-1. CSV file 1: Full GO annotation (long format)
-2. CSV file 2: Unique panel → functional class mapping
+1. CSV file 1: Full GO annotation (long format) [ For example see, ProteinGoAnnotation.csv]
+2. CSV file 2: Unique panel → functional class mapping [ For example see, PatData.csv]
 
 # Usage
 Install the required packages and then run the required Rscript (Classifier.R).
