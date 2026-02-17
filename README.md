@@ -2,7 +2,17 @@
 
 Deterministic functional annotation generator of multiplex immune mediator panels using Gene Ontology (GO: Biological Process) terms with curated biological fallback rules.
 
-This tool converts heterogeneous biomarker measurements (cytokines and chemokines) into interpretable biological mechanisms. 
+This tool converts heterogeneous biomarker measurements (cytokines and chemokines) into interpretable biological mechanisms.
+
+# Method Overview
+
+GO Biological Process retrieval (org.Hs.eg.db)
+
+Pattern-based biological classification
+
+Curated correction for incomplete annotation (e.g., IFNL2)
+
+Export long and unique mapping tables
 
 # Functional Classes Produced
 | Class                        | Interpretation                               |
@@ -14,7 +24,6 @@ This tool converts heterogeneous biomarker measurements (cytokines and chemokine
 | Tissue destruction           | Proteolysis & cell death                     |
 | Tissue construction / repair | Healing & matrix organization                |
 | Bone remodeling              | Osteoclast / osteoblast pathways             |
-
 
 
 # Requirements
