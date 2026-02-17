@@ -1,0 +1,169 @@
+Element,Observed  direction,Pat
+Granzyme B,Increase,PatMic1
+SCF,Increase,PatMic1
+TRAIL,Decrease,PatMic1
+ENA-78,Decrease,PatMic1
+EGF,Decrease,PatMic1
+Eotaxin,Decrease,PatMic1
+Flt-3L,Decrease,PatMic1
+GM-CSF,Decrease,PatMic1
+IFN-A,Decrease,PatMic1
+IFN-y,Decrease,PatMic1
+GRO,Decrease,PatMic1
+IL-10,Decrease,PatMic1
+MCP-3,Decrease,PatMic1
+IL-12p40,Decrease,PatMic1
+MDC,Decrease,PatMic1
+IL-12p70,Decrease,PatMic1
+IL-13,Decrease,PatMic1
+IL-15,Decrease,PatMic1
+IL-17A,Decrease,PatMic1
+IL-2,Decrease,PatMic1
+IL-6,Decrease,PatMic1
+IL-7,Decrease,PatMic1
+IL-8,Decrease,PatMic1
+IP-10,Decrease,PatMic1
+MCP-1,Decrease,PatMic1
+MIP-1A,Decrease,PatMic1
+MIP-1B,Decrease,PatMic1
+TNF-A,Decrease,PatMic1
+VEGF,Decrease,PatMic1
+MMP-2,Increase,PatMic1
+RANKL,Decrease,PatMic1
+GDF-15,Increase,PatMic1
+Periostin,Increase,PatMic1
+Granzyme B,Increase,Pat1Micsta
+SCF,Increase,Pat1Micsta
+TRAIL,Decrease,Pat1Micsta
+ENA-78,Decrease,Pat1Micsta
+EGF,Decrease,Pat1Micsta
+Eotaxin,Decrease,Pat1Micsta
+Flt-3L,Decrease,Pat1Micsta
+GM-CSF,Decrease,Pat1Micsta
+IFN-A,Decrease,Pat1Micsta
+IFN-y,Decrease,Pat1Micsta
+GRO,Decrease,Pat1Micsta
+IL-10,Decrease,Pat1Micsta
+MCP-3,Decrease,Pat1Micsta
+IL-12p40,Decrease,Pat1Micsta
+MDC,Decrease,Pat1Micsta
+IL-12p70,Decrease,Pat1Micsta
+IL-13,Decrease,Pat1Micsta
+IL-15,Decrease,Pat1Micsta
+IL-17A,Decrease,Pat1Micsta
+IL-2,Decrease,Pat1Micsta
+IL-6,Decrease,Pat1Micsta
+IL-7,Decrease,Pat1Micsta
+IL-8,Decrease,Pat1Micsta
+IP-10,Decrease,Pat1Micsta
+MCP-1,Decrease,Pat1Micsta
+MIP-1A,Decrease,Pat1Micsta
+MIP-1B,Decrease,Pat1Micsta
+TNF-A,Decrease,Pat1Micsta
+VEGF,Decrease,Pat1Micsta
+MMP-2,Increase,Pat1Micsta
+RANKL,Decrease,Pat1Micsta
+GDF-15,Increase,Pat1Micsta
+Periostin,Increase,Pat1Micsta
+MMP-8,Increase,Pat2
+Eotaxin-2,Increase,Pat4
+IL-8,Decrease,Pat4
+MMP-1,Decrease,Pat4
+MMP-10,Decrease,Pat4
+RANKL,Decrease,Pat4
+Periostin,Decrease,Pat4
+Granzyme B,Decrease,Pat7
+TRAIL,Decrease,Pat7
+HSP70,Decrease,Pat7
+EGF,Decrease,Pat7
+TGF-A,Decrease,Pat7
+G-CSF,Decrease,Pat7
+Flt-3L,Decrease,Pat7
+GM-CSF,Decrease,Pat7
+Fractalkine,Decrease,Pat7
+IFN-A,Decrease,Pat7
+IFN-y,Decrease,Pat7
+IL-10,Decrease,Pat7
+IL-12p40,Decrease,Pat7
+IL-13,Decrease,Pat7
+Eotaxin-2,Decrease,Pat7
+IL-1RA,Decrease,Pat7
+IL-1A,Decrease,Pat7
+IL-1B,Decrease,Pat7
+IL-6,Decrease,Pat7
+IL-8,Decrease,Pat7
+MCP-1,Decrease,Pat7
+MIP-1A,Decrease,Pat7
+BCA-1,Decrease,Pat7
+MIP-1B,Decrease,Pat7
+RANTES,Decrease,Pat7
+TNF-A,Decrease,Pat7
+VEGF,Decrease,Pat7
+RANKL,Decrease,Pat7
+TRAP5,Decrease,Pat7
+OPG,Decrease,Pat7
+IL-16,Decrease,Pat7
+LIF,Decrease,Pat9
+TRAIL,Increase,Pat9
+MIP-1d,Decrease,Pat9
+EGF,Increase,Pat9
+IL-13,Increase,Pat9
+IL-28A,Increase,Pat10Prob
+TGF-A,Increase,Pat10Prob
+G-CSF,Increase,Pat10Prob
+IL-17A,Increase,Pat10Prob
+IL-1A,Increase,Pat10Prob
+IL-1B,Increase,Pat10Prob
+VEGF,Increase,Pat10Prob
+MMP-9,Increase,Pat10Prob
+GDF-15,Increase,Pat10Prob
+OPG,Increase,Pat10Prob
+YKL40,Increase,Pat10Prob
+SCF,Increase,Pat10Proa
+TGF-A,Increase,Pat10Proa
+G-CSF,Increase,Pat10Proa
+GM-CSF,Increase,Pat10Proa
+MCP-3,Increase,Pat10Proa
+sCD40L,Increase,Pat10Proa
+IL-17A,Increase,Pat10Proa
+IL-1A,Increase,Pat10Proa
+IL-1B,Increase,Pat10Proa
+IL-6,Increase,Pat10Proa
+RANTES,Increase,Pat10Proa
+MMP-1,Increase,Pat10Proa
+MMP-2,Increase,Pat10Proa
+MMP-10,Increase,Pat10Proa
+GDF-15,Increase,Pat10Proa
+TRAP5,Increase,Pat10Proa
+OPG,Increase,Pat10Proa
+LIF,Decrease,Pat 3/5
+SCF,Decrease,Pat 3/5
+IL-21,Decrease,Pat 3/5
+IL-23,Decrease,Pat 3/5
+SDF-1a.b,Decrease,Pat 3/5
+ENA-78,Increase,Pat 3/5
+MIP-1d,Decrease,Pat 3/5
+IL-28A,Decrease,Pat 3/5
+HSP70,Decrease,Pat 3/5
+Eotaxin,Decrease,Pat 3/5
+IFN-y,Decrease,Pat 3/5
+MMP-8,Decrease,Pat 3/5
+MCP-3,Decrease,Pat 3/5
+IL-12p40,Decrease,Pat 3/5
+IL-12p70,Decrease,Pat 3/5
+IL-15,Decrease,Pat 3/5
+sCD40L,Decrease,Pat 3/5
+IL-17A,Decrease,Pat 3/5
+IL-1A,Decrease,Pat 3/5
+IL-1B,Decrease,Pat 3/5
+IL-2,Decrease,Pat 3/5
+MIP-1B,Increase,Pat 3/5
+RANTES,Decrease,Pat 3/5
+MMP-1,Decrease,Pat 3/5
+RANKL,Decrease,Pat 3/5
+GDF-15,Decrease,Pat 3/5
+MCP-4,Decrease,Pat 3/5
+TRAP5,Decrease,Pat 3/5
+OPG,Decrease,Pat 3/5
+YKL40,Decrease,Pat 3/5
+IL-16,Decrease,Pat 3/5
