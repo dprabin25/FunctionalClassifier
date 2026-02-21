@@ -41,8 +41,8 @@ plt.rcParams.update({
 # INPUT
 # =================================================
 BASE_DIR = r"C:\PlotRevSample\ProteinsForPlots"
-CYTOKINE_FILE = os.path.join(BASE_DIR, "Cytokines.csv")
-FUNCTION_FILE = os.path.join(BASE_DIR, "UPdatedtry.csv")
+CYTOKINE_FILE = os.path.join(BASE_DIR, "PatData.csv")
+FUNCTION_FILE = os.path.join(BASE_DIR, "ProteinGoAnnotation.csv")
 
 cyto = pd.read_csv(CYTOKINE_FILE)
 func = pd.read_csv(FUNCTION_FILE)
@@ -181,4 +181,5 @@ for patient in summary["Pat"].unique():
     plt.close(fig)
 
 print("All figures and corrected tables exported successfully.")
+
 
