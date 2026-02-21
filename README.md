@@ -11,7 +11,7 @@ This repository provides a small, focused data pipeline for turning per‑patien
   - A deduplicated table ensuring each protein is counted once per functional class.
   - A “Table 3”–style summary of counts by patient, functional class, and direction.
   - Per‑patient, plot‑ready bar‑count tables.
-- Optional per‑patient bar plots that visualize these counts, but do not replace the underlying tables.
+-  Per‑patient bar plots that visualize these counts, but do not replace the underlying tables.
 
 The design assumes that downstream users may want to replot or reanalyze the data, so every plot can be reconstructed from the exported CSVs.
 
