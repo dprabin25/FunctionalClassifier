@@ -1,0 +1,78 @@
+Pat,Major_Functional_Class,Direction,Count,SignedCount,Elements
+Pat 3/5,Bone remodeling,Decrease,5,-5,IFN-y; IL-12p40; IL-17A; IL-23; RANKL
+Pat 3/5,Immune cell activation,Decrease,19,-19,IFN-y; IL-12p40; IL-12p70; IL-15; IL-16; IL-17A; IL-1A; IL-1B; IL-2; IL-21; IL-23; IL-28A; MMP-8; RANKL; RANTES; SDF-1a.b; TRAP5; YKL40; sCD40L
+Pat 3/5,Immune cell amplification,Decrease,18,-18,Eotaxin; HSP70; IFN-y; IL-12p40; IL-12p70; IL-15; IL-17A; IL-1A; IL-1B; IL-2; IL-21; IL-23; LIF; RANKL; RANTES; SCF; SDF-1a.b; sCD40L
+Pat 3/5,Immune cell amplification,Increase,1,1,ENA-78
+Pat 3/5,Immune cell positioning,Decrease,17,-17,Eotaxin; GDF-15; IFN-y; IL-12p40; IL-12p70; IL-16; IL-17A; IL-1A; IL-1B; IL-23; MCP-3; MCP-4; MIP-1d; RANKL; RANTES; SCF; SDF-1a.b
+Pat 3/5,Immune cell positioning,Increase,2,2,ENA-78; MIP-1B
+Pat 3/5,Resolution,Decrease,20,-20,Eotaxin; GDF-15; HSP70; IFN-y; IL-12p40; IL-12p70; IL-15; IL-17A; IL-1A; IL-1B; IL-2; IL-23; LIF; OPG; RANKL; RANTES; SCF; SDF-1a.b; TRAP5; sCD40L
+Pat 3/5,Resolution,Increase,1,1,MIP-1B
+Pat 3/5,Tissue construction / repair,Decrease,10,-10,Eotaxin; IL-17A; IL-1A; IL-1B; LIF; MMP-1; MMP-8; OPG; SDF-1a.b; YKL40
+Pat 3/5,Tissue destruction,Decrease,14,-14,IFN-y; IL-12p40; IL-12p70; IL-17A; IL-1A; IL-1B; IL-2; OPG; RANKL; RANTES; SCF; TRAP5; YKL40; sCD40L
+Pat10Proa,Bone remodeling,Increase,2,2,IL-17A; IL-6
+Pat10Proa,Immune cell activation,Increase,8,8,GM-CSF; IL-17A; IL-1A; IL-1B; IL-6; RANTES; TRAP5; sCD40L
+Pat10Proa,Immune cell amplification,Increase,11,11,G-CSF; GM-CSF; IL-17A; IL-1A; IL-1B; IL-6; MMP-2; RANTES; SCF; TGF-A; sCD40L
+Pat10Proa,Immune cell positioning,Increase,10,10,GDF-15; GM-CSF; IL-17A; IL-1A; IL-1B; IL-6; MCP-3; MMP-2; RANTES; SCF
+Pat10Proa,Resolution,Increase,12,12,GDF-15; GM-CSF; IL-17A; IL-1A; IL-1B; IL-6; MMP-2; OPG; RANTES; SCF; TRAP5; sCD40L
+Pat10Proa,Tissue construction / repair,Increase,10,10,GM-CSF; IL-17A; IL-1A; IL-1B; IL-6; MMP-1; MMP-10; MMP-2; OPG; TGF-A
+Pat10Proa,Tissue destruction,Increase,10,10,IL-17A; IL-1A; IL-1B; IL-6; MMP-2; OPG; RANTES; SCF; TRAP5; sCD40L
+Pat10Prob,Bone remodeling,Increase,2,2,IL-17A; VEGF
+Pat10Prob,Immune cell activation,Increase,5,5,IL-17A; IL-1A; IL-1B; IL-28A; YKL40
+Pat10Prob,Immune cell amplification,Increase,7,7,G-CSF; IL-17A; IL-1A; IL-1B; MMP-9; TGF-A; VEGF
+Pat10Prob,Immune cell positioning,Increase,6,6,GDF-15; IL-17A; IL-1A; IL-1B; MMP-9; VEGF
+Pat10Prob,Resolution,Increase,7,7,GDF-15; IL-17A; IL-1A; IL-1B; MMP-9; OPG; VEGF
+Pat10Prob,Tissue construction / repair,Increase,8,8,IL-17A; IL-1A; IL-1B; MMP-9; OPG; TGF-A; VEGF; YKL40
+Pat10Prob,Tissue destruction,Increase,7,7,IL-17A; IL-1A; IL-1B; MMP-9; OPG; VEGF; YKL40
+Pat1Micsta,Bone remodeling,Decrease,8,-8,IFN-y; IL-12p40; IL-17A; IL-6; MIP-1A; RANKL; TNF-A; VEGF
+Pat1Micsta,Immune cell activation,Decrease,18,-18,EGF; GM-CSF; IFN-A; IFN-y; IL-10; IL-12p40; IL-12p70; IL-13; IL-15; IL-17A; IL-2; IL-6; IL-8; IP-10; MCP-1; MIP-1A; RANKL; TNF-A
+Pat1Micsta,Immune cell amplification,Decrease,22,-22,EGF; ENA-78; Eotaxin; Flt-3L; GM-CSF; GRO; IFN-y; IL-10; IL-12p40; IL-12p70; IL-13; IL-15; IL-17A; IL-2; IL-6; IL-7; IL-8; IP-10; MCP-1; RANKL; TNF-A; VEGF
+Pat1Micsta,Immune cell amplification,Increase,2,2,MMP-2; SCF
+Pat1Micsta,Immune cell positioning,Decrease,21,-21,EGF; ENA-78; Eotaxin; GM-CSF; GRO; IFN-y; IL-10; IL-12p40; IL-12p70; IL-17A; IL-6; IL-8; IP-10; MCP-1; MCP-3; MDC; MIP-1A; MIP-1B; RANKL; TNF-A; VEGF
+Pat1Micsta,Immune cell positioning,Increase,4,4,GDF-15; MMP-2; Periostin; SCF
+Pat1Micsta,Resolution,Decrease,21,-21,EGF; Eotaxin; GM-CSF; IFN-y; IL-10; IL-12p40; IL-12p70; IL-13; IL-15; IL-17A; IL-2; IL-6; IL-7; IL-8; IP-10; MCP-1; MIP-1A; MIP-1B; RANKL; TNF-A; VEGF
+Pat1Micsta,Resolution,Increase,5,5,GDF-15; Granzyme B; MMP-2; Periostin; SCF
+Pat1Micsta,Tissue construction / repair,Decrease,10,-10,EGF; Eotaxin; GM-CSF; IL-10; IL-17A; IL-6; IL-8; MCP-1; TNF-A; VEGF
+Pat1Micsta,Tissue construction / repair,Increase,2,2,MMP-2; Periostin
+Pat1Micsta,Tissue destruction,Decrease,15,-15,IFN-y; IL-10; IL-12p40; IL-12p70; IL-17A; IL-2; IL-6; IL-7; IP-10; MCP-1; MIP-1A; RANKL; TNF-A; TRAIL; VEGF
+Pat1Micsta,Tissue destruction,Increase,3,3,Granzyme B; MMP-2; SCF
+Pat2,Immune cell activation,Increase,1,1,MMP-8
+Pat2,Tissue construction / repair,Increase,1,1,MMP-8
+Pat4,Bone remodeling,Decrease,1,-1,RANKL
+Pat4,Immune cell activation,Decrease,2,-2,IL-8; RANKL
+Pat4,Immune cell amplification,Decrease,2,-2,IL-8; RANKL
+Pat4,Immune cell amplification,Increase,1,1,Eotaxin-2
+Pat4,Immune cell positioning,Decrease,3,-3,IL-8; Periostin; RANKL
+Pat4,Immune cell positioning,Increase,1,1,Eotaxin-2
+Pat4,Resolution,Decrease,3,-3,IL-8; Periostin; RANKL
+Pat4,Tissue construction / repair,Decrease,4,-4,IL-8; MMP-1; MMP-10; Periostin
+Pat4,Tissue construction / repair,Increase,1,1,Eotaxin-2
+Pat4,Tissue destruction,Decrease,1,-1,RANKL
+Pat7,Bone remodeling,Decrease,7,-7,IFN-y; IL-12p40; IL-6; MIP-1A; RANKL; TNF-A; VEGF
+Pat7,Immune cell activation,Decrease,20,-20,BCA-1; EGF; Fractalkine; GM-CSF; IFN-A; IFN-y; IL-10; IL-12p40; IL-13; IL-16; IL-1A; IL-1B; IL-6; IL-8; MCP-1; MIP-1A; RANKL; RANTES; TNF-A; TRAP5
+Pat7,Immune cell amplification,Decrease,21,-21,EGF; Eotaxin-2; Flt-3L; Fractalkine; G-CSF; GM-CSF; HSP70; IFN-y; IL-10; IL-12p40; IL-13; IL-1A; IL-1B; IL-6; IL-8; MCP-1; RANKL; RANTES; TGF-A; TNF-A; VEGF
+Pat7,Immune cell positioning,Decrease,20,-20,BCA-1; EGF; Eotaxin-2; Fractalkine; GM-CSF; IFN-y; IL-10; IL-12p40; IL-16; IL-1A; IL-1B; IL-6; IL-8; MCP-1; MIP-1A; MIP-1B; RANKL; RANTES; TNF-A; VEGF
+Pat7,Resolution,Decrease,23,-23,EGF; Fractalkine; GM-CSF; Granzyme B; HSP70; IFN-y; IL-10; IL-12p40; IL-13; IL-1A; IL-1B; IL-1RA; IL-6; IL-8; MCP-1; MIP-1A; MIP-1B; OPG; RANKL; RANTES; TNF-A; TRAP5; VEGF
+Pat7,Tissue construction / repair,Decrease,15,-15,BCA-1; EGF; Eotaxin-2; Fractalkine; GM-CSF; IL-10; IL-1A; IL-1B; IL-6; IL-8; MCP-1; OPG; TGF-A; TNF-A; VEGF
+Pat7,Tissue destruction,Decrease,17,-17,Fractalkine; Granzyme B; IFN-y; IL-10; IL-12p40; IL-1A; IL-1B; IL-6; MCP-1; MIP-1A; OPG; RANKL; RANTES; TNF-A; TRAIL; TRAP5; VEGF
+Pat9,Immune cell activation,Increase,2,2,EGF; IL-13
+Pat9,Immune cell amplification,Decrease,1,-1,LIF
+Pat9,Immune cell amplification,Increase,2,2,EGF; IL-13
+Pat9,Immune cell positioning,Decrease,1,-1,MIP-1d
+Pat9,Immune cell positioning,Increase,1,1,EGF
+Pat9,Resolution,Decrease,1,-1,LIF
+Pat9,Resolution,Increase,2,2,EGF; IL-13
+Pat9,Tissue construction / repair,Decrease,1,-1,LIF
+Pat9,Tissue construction / repair,Increase,1,1,EGF
+Pat9,Tissue destruction,Increase,1,1,TRAIL
+PatMic1,Bone remodeling,Decrease,8,-8,IFN-y; IL-12p40; IL-17A; IL-6; MIP-1A; RANKL; TNF-A; VEGF
+PatMic1,Immune cell activation,Decrease,18,-18,EGF; GM-CSF; IFN-A; IFN-y; IL-10; IL-12p40; IL-12p70; IL-13; IL-15; IL-17A; IL-2; IL-6; IL-8; IP-10; MCP-1; MIP-1A; RANKL; TNF-A
+PatMic1,Immune cell amplification,Decrease,22,-22,EGF; ENA-78; Eotaxin; Flt-3L; GM-CSF; GRO; IFN-y; IL-10; IL-12p40; IL-12p70; IL-13; IL-15; IL-17A; IL-2; IL-6; IL-7; IL-8; IP-10; MCP-1; RANKL; TNF-A; VEGF
+PatMic1,Immune cell amplification,Increase,2,2,MMP-2; SCF
+PatMic1,Immune cell positioning,Decrease,21,-21,EGF; ENA-78; Eotaxin; GM-CSF; GRO; IFN-y; IL-10; IL-12p40; IL-12p70; IL-17A; IL-6; IL-8; IP-10; MCP-1; MCP-3; MDC; MIP-1A; MIP-1B; RANKL; TNF-A; VEGF
+PatMic1,Immune cell positioning,Increase,4,4,GDF-15; MMP-2; Periostin; SCF
+PatMic1,Resolution,Decrease,21,-21,EGF; Eotaxin; GM-CSF; IFN-y; IL-10; IL-12p40; IL-12p70; IL-13; IL-15; IL-17A; IL-2; IL-6; IL-7; IL-8; IP-10; MCP-1; MIP-1A; MIP-1B; RANKL; TNF-A; VEGF
+PatMic1,Resolution,Increase,5,5,GDF-15; Granzyme B; MMP-2; Periostin; SCF
+PatMic1,Tissue construction / repair,Decrease,10,-10,EGF; Eotaxin; GM-CSF; IL-10; IL-17A; IL-6; IL-8; MCP-1; TNF-A; VEGF
+PatMic1,Tissue construction / repair,Increase,2,2,MMP-2; Periostin
+PatMic1,Tissue destruction,Decrease,15,-15,IFN-y; IL-10; IL-12p40; IL-12p70; IL-17A; IL-2; IL-6; IL-7; IP-10; MCP-1; MIP-1A; RANKL; TNF-A; TRAIL; VEGF
+PatMic1,Tissue destruction,Increase,3,3,Granzyme B; MMP-2; SCF

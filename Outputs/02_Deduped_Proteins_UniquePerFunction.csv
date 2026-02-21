@@ -1,0 +1,632 @@
+Pat,Element,Direction,Major_Functional_Class,TERM
+Pat 3/5,ENA-78,Increase,Immune cell amplification,positive regulation of cell population proliferation
+Pat 3/5,ENA-78,Increase,Immune cell positioning,chemotaxis; neutrophil chemotaxis
+Pat 3/5,Eotaxin,Decrease,Immune cell amplification,positive regulation of endothelial cell proliferation
+Pat 3/5,Eotaxin,Decrease,Immune cell positioning,chemotaxis; eosinophil chemotaxis; mast cell chemotaxis; positive regulation of cell migration
+Pat 3/5,Eotaxin,Decrease,Resolution,negative regulation of neurogenesis
+Pat 3/5,Eotaxin,Decrease,Tissue construction / repair,positive regulation of angiogenesis
+Pat 3/5,GDF-15,Decrease,Immune cell positioning,negative regulation of leukocyte migration
+Pat 3/5,GDF-15,Decrease,Resolution,negative regulation of SMAD protein signal transduction; negative regulation of appetite; negative regulation of growth hormone receptor signaling pathway; negative regulation of multicellular organism growth; negative regulation of transforming growth factor beta receptor signaling pathway
+Pat 3/5,HSP70,Decrease,Immune cell amplification,negative regulation of cell population proliferation
+Pat 3/5,HSP70,Decrease,Resolution,negative regulation of apoptotic process; negative regulation of cell growth; negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway; negative regulation of extrinsic apoptotic signaling pathway in absence of ligand; negative regulation of inclusion body assembly; negative regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway; negative regulation of protein ubiquitination; negative regulation of transcription by RNA polymerase II; negative regulation of transforming growth factor beta receptor signaling pathway
+Pat 3/5,IFN-y,Decrease,Bone remodeling,positive regulation of osteoclast differentiation
+Pat 3/5,IFN-y,Decrease,Immune cell activation,astrocyte activation; cell surface receptor signaling pathway via JAK-STAT; macrophage activation involved in immune response; microglial cell activation; positive regulation of cytokine production
+Pat 3/5,IFN-y,Decrease,Immune cell amplification,negative regulation of smooth muscle cell proliferation; positive regulation of cell population proliferation
+Pat 3/5,IFN-y,Decrease,Immune cell positioning,positive regulation of epithelial cell migration
+Pat 3/5,IFN-y,Decrease,Resolution,negative regulation of DNA-templated transcription; negative regulation of amyloid-beta clearance; negative regulation of epithelial cell differentiation; negative regulation of gene expression; negative regulation of interleukin-17 production; negative regulation of transcription by RNA polymerase II
+Pat 3/5,IFN-y,Decrease,Tissue destruction,apoptotic process; extrinsic apoptotic signaling pathway; positive regulation of smooth muscle cell apoptotic process
+Pat 3/5,IL-12p40,Decrease,Bone remodeling,positive regulation of osteoclast differentiation
+Pat 3/5,IL-12p40,Decrease,Immune cell activation,cell surface receptor signaling pathway via JAK-STAT; natural killer cell activation; natural killer cell activation involved in immune response; positive regulation of NK T cell activation; positive regulation of natural killer cell activation; regulation of cytokine production
+Pat 3/5,IL-12p40,Decrease,Immune cell amplification,T cell proliferation; negative regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis; negative regulation of smooth muscle cell proliferation; positive regulation of NK T cell proliferation; positive regulation of T cell proliferation; positive regulation of activated T cell proliferation; positive regulation of lymphocyte proliferation; positive regulation of mononuclear cell proliferation; positive regulation of natural killer cell proliferation
+Pat 3/5,IL-12p40,Decrease,Immune cell positioning,cell migration
+Pat 3/5,IL-12p40,Decrease,Resolution,negative regulation of inflammatory response to antigenic stimulus; negative regulation of interleukin-10 production; negative regulation of interleukin-17 production; negative regulation of protein secretion; negative regulation of vascular endothelial growth factor signaling pathway
+Pat 3/5,IL-12p40,Decrease,Tissue destruction,positive regulation of smooth muscle cell apoptotic process
+Pat 3/5,IL-12p70,Decrease,Immune cell activation,positive regulation of NK T cell activation; positive regulation of natural killer cell activation
+Pat 3/5,IL-12p70,Decrease,Immune cell amplification,negative regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis; negative regulation of smooth muscle cell proliferation; positive regulation of lymphocyte proliferation; positive regulation of mononuclear cell proliferation
+Pat 3/5,IL-12p70,Decrease,Immune cell positioning,cell migration; positive regulation of dendritic cell chemotaxis
+Pat 3/5,IL-12p70,Decrease,Resolution,negative regulation of interleukin-17 production; negative regulation of protein secretion; negative regulation of vascular endothelial growth factor signaling pathway
+Pat 3/5,IL-12p70,Decrease,Tissue destruction,extrinsic apoptotic signaling pathway; positive regulation of smooth muscle cell apoptotic process
+Pat 3/5,IL-15,Decrease,Immune cell activation,neutrophil activation; positive regulation of cytokine production
+Pat 3/5,IL-15,Decrease,Immune cell amplification,NK T cell proliferation; natural killer cell proliferation; positive regulation of T cell proliferation; positive regulation of cell population proliferation; positive regulation of natural killer cell proliferation
+Pat 3/5,IL-15,Decrease,Resolution,negative regulation of cold-induced thermogenesis
+Pat 3/5,IL-16,Decrease,Immune cell activation,positive regulation of neutrophil activation
+Pat 3/5,IL-16,Decrease,Immune cell positioning,induction of positive chemotaxis; leukocyte chemotaxis
+Pat 3/5,IL-17A,Decrease,Bone remodeling,positive regulation of osteoclast differentiation
+Pat 3/5,IL-17A,Decrease,Immune cell activation,fibroblast activation; innate immune response; positive regulation of cytokine production involved in inflammatory response
+Pat 3/5,IL-17A,Decrease,Immune cell amplification,keratinocyte proliferation
+Pat 3/5,IL-17A,Decrease,Immune cell positioning,granulocyte migration
+Pat 3/5,IL-17A,Decrease,Resolution,negative regulation of inflammatory response to wounding
+Pat 3/5,IL-17A,Decrease,Tissue construction / repair,intestinal epithelial structure maintenance
+Pat 3/5,IL-17A,Decrease,Tissue destruction,apoptotic process; cell death
+Pat 3/5,IL-1A,Decrease,Immune cell activation,cytokine production; positive regulation of cytokine production
+Pat 3/5,IL-1A,Decrease,Immune cell amplification,negative regulation of cell population proliferation; positive regulation of immature T cell proliferation in thymus
+Pat 3/5,IL-1A,Decrease,Immune cell positioning,positive regulation of neutrophil migration
+Pat 3/5,IL-1A,Decrease,Resolution,negative regulation of establishment of Sertoli cell barrier; negative regulation of extrinsic apoptotic signaling pathway in absence of ligand
+Pat 3/5,IL-1A,Decrease,Tissue construction / repair,connective tissue replacement involved in inflammatory response wound healing; positive regulation of angiogenesis
+Pat 3/5,IL-1A,Decrease,Tissue destruction,apoptotic process; ectopic germ cell programmed cell death; extrinsic apoptotic signaling pathway in absence of ligand
+Pat 3/5,IL-1B,Decrease,Immune cell activation,astrocyte activation; cytokine production; positive regulation of T-helper 1 cell cytokine production; positive regulation of complement activation
+Pat 3/5,IL-1B,Decrease,Immune cell amplification,negative regulation of cell population proliferation; positive regulation of T cell proliferation; positive regulation of cell population proliferation; positive regulation of glial cell proliferation; positive regulation of immature T cell proliferation in thymus
+Pat 3/5,IL-1B,Decrease,Immune cell positioning,neutrophil chemotaxis; positive regulation of cell migration
+Pat 3/5,IL-1B,Decrease,Resolution,negative regulation of D-glucose transmembrane transport; negative regulation of MAP kinase activity; negative regulation of adiponectin secretion; negative regulation of extrinsic apoptotic signaling pathway in absence of ligand; negative regulation of gap junction assembly; negative regulation of insulin receptor signaling pathway; negative regulation of lipid catabolic process; negative regulation of lipid metabolic process; negative regulation of neurogenesis; negative regulation of synaptic transmission
+Pat 3/5,IL-1B,Decrease,Tissue construction / repair,positive regulation of angiogenesis; positive regulation of epithelial to mesenchymal transition
+Pat 3/5,IL-1B,Decrease,Tissue destruction,apoptotic process; ectopic germ cell programmed cell death; extrinsic apoptotic signaling pathway in absence of ligand
+Pat 3/5,IL-2,Decrease,Immune cell activation,leukocyte activation involved in immune response; natural killer cell activation
+Pat 3/5,IL-2,Decrease,Immune cell amplification,"activated T cell proliferation; negative regulation of lymphocyte proliferation; positive regulation of B cell proliferation; positive regulation of activated T cell proliferation; positive regulation of cell population proliferation; regulation of CD4-positive, alpha-beta T cell proliferation; regulation of T cell homeostatic proliferation"
+Pat 3/5,IL-2,Decrease,Resolution,negative regulation of B cell apoptotic process; negative regulation of T-helper 17 cell differentiation; negative regulation of apoptotic process; negative regulation of inflammatory response
+Pat 3/5,IL-2,Decrease,Tissue destruction,extrinsic apoptotic signaling pathway in absence of ligand
+Pat 3/5,IL-21,Decrease,Immune cell activation,positive regulation of cytokine production
+Pat 3/5,IL-21,Decrease,Immune cell amplification,positive regulation of B cell proliferation; positive regulation of T cell proliferation; positive regulation of cell population proliferation
+Pat 3/5,IL-23,Decrease,Bone remodeling,positive regulation of osteoclast differentiation
+Pat 3/5,IL-23,Decrease,Immune cell activation,cell surface receptor signaling pathway via JAK-STAT; innate immune response; positive regulation of NK T cell activation; positive regulation of natural killer cell activation
+Pat 3/5,IL-23,Decrease,Immune cell amplification,T cell proliferation; positive regulation of NK T cell proliferation; positive regulation of T cell proliferation; positive regulation of activated T cell proliferation; positive regulation of natural killer cell proliferation
+Pat 3/5,IL-23,Decrease,Immune cell positioning,positive regulation of neutrophil chemotaxis
+Pat 3/5,IL-23,Decrease,Resolution,negative regulation of interleukin-10 production
+Pat 3/5,IL-28A,Decrease,Immune cell activation,cell surface receptor signaling pathway via JAK-STAT; cellular response to virus; defense response to virus; innate immune response; mucosal immune response; positive regulation of immune response; type III interferon-mediated signaling pathway
+Pat 3/5,LIF,Decrease,Immune cell amplification,fibroblast proliferation; negative regulation of cell population proliferation; positive regulation of cell population proliferation; positive regulation of fibroblast proliferation
+Pat 3/5,LIF,Decrease,Resolution,negative regulation of ERK1 and ERK2 cascade; negative regulation of hormone secretion; negative regulation of meiotic nuclear division
+Pat 3/5,LIF,Decrease,Tissue construction / repair,positive regulation of mesenchymal to epithelial transition involved in metanephros morphogenesis; regulation of metanephric nephron tubule epithelial cell differentiation
+Pat 3/5,MCP-3,Decrease,Immune cell positioning,chemotaxis; eosinophil chemotaxis; monocyte chemotaxis; positive regulation of cell migration; positive regulation of natural killer cell chemotaxis
+Pat 3/5,MCP-4,Decrease,Immune cell positioning,chemotaxis; eosinophil chemotaxis; positive regulation of cell migration
+Pat 3/5,MIP-1B,Increase,Immune cell positioning,eosinophil chemotaxis; positive regulation of cell migration; positive regulation of natural killer cell chemotaxis
+Pat 3/5,MIP-1B,Increase,Resolution,negative regulation by host of viral transcription
+Pat 3/5,MIP-1d,Decrease,Immune cell positioning,cell chemotaxis; chemotaxis; positive chemotaxis; positive regulation of cell migration
+Pat 3/5,MMP-1,Decrease,Tissue construction / repair,extracellular matrix organization
+Pat 3/5,MMP-8,Decrease,Immune cell activation,positive regulation of microglial cell activation
+Pat 3/5,MMP-8,Decrease,Tissue construction / repair,extracellular matrix organization
+Pat 3/5,OPG,Decrease,Resolution,negative regulation of bone resorption; negative regulation of odontogenesis of dentin-containing tooth; negative regulation of osteoclast differentiation; negative regulation of tumor necrosis factor-mediated signaling pathway
+Pat 3/5,OPG,Decrease,Tissue construction / repair,extracellular matrix organization
+Pat 3/5,OPG,Decrease,Tissue destruction,apoptotic process
+Pat 3/5,RANKL,Decrease,Bone remodeling,osteoclast development; osteoclast differentiation; positive regulation of osteoclast development; positive regulation of osteoclast differentiation
+Pat 3/5,RANKL,Decrease,Immune cell activation,positive regulation of T cell activation
+Pat 3/5,RANKL,Decrease,Immune cell amplification,mammary gland epithelial cell proliferation; osteoclast proliferation
+Pat 3/5,RANKL,Decrease,Immune cell positioning,monocyte chemotaxis
+Pat 3/5,RANKL,Decrease,Resolution,negative regulation of transcription by RNA polymerase II
+Pat 3/5,RANKL,Decrease,Tissue destruction,bone resorption; positive regulation of bone resorption; positive regulation of extrinsic apoptotic signaling pathway
+Pat 3/5,RANTES,Decrease,Immune cell activation,activation of phospholipase D activity; neutrophil activation; positive regulation of innate immune response; regulation of T cell activation
+Pat 3/5,RANTES,Decrease,Immune cell amplification,epithelial cell proliferation; positive regulation of T cell proliferation; positive regulation of epithelial cell proliferation; positive regulation of smooth muscle cell proliferation
+Pat 3/5,RANTES,Decrease,Immune cell positioning,chemotaxis; dendritic cell chemotaxis; eosinophil chemotaxis; macrophage chemotaxis; monocyte chemotaxis; positive chemotaxis; positive regulation of T cell chemotaxis; positive regulation of T cell migration; positive regulation of cell migration; positive regulation of macrophage chemotaxis; positive regulation of monocyte chemotaxis; positive regulation of natural killer cell chemotaxis; positive regulation of smooth muscle cell migration
+Pat 3/5,RANTES,Decrease,Resolution,negative regulation by host of viral transcription; negative regulation of G protein-coupled receptor signaling pathway; negative regulation of T cell apoptotic process; negative regulation of chemokine-mediated signaling pathway; negative regulation of macrophage apoptotic process; negative regulation of viral genome replication
+Pat 3/5,RANTES,Decrease,Tissue destruction,positive regulation of T cell apoptotic process
+Pat 3/5,SCF,Decrease,Immune cell amplification,T cell proliferation; mast cell proliferation; positive regulation of T cell proliferation; positive regulation of cell population proliferation; positive regulation of hematopoietic stem cell proliferation; positive regulation of mast cell proliferation
+Pat 3/5,SCF,Decrease,Immune cell positioning,mast cell migration; melanocyte migration; neural crest cell migration; positive regulation of leukocyte migration
+Pat 3/5,SCF,Decrease,Resolution,negative regulation of mast cell apoptotic process
+Pat 3/5,SCF,Decrease,Tissue destruction,ectopic germ cell programmed cell death; extrinsic apoptotic signaling pathway in absence of ligand; mast cell apoptotic process
+Pat 3/5,SDF-1a.b,Decrease,Immune cell activation,integrin activation
+Pat 3/5,SDF-1a.b,Decrease,Immune cell amplification,positive regulation of endothelial cell proliferation
+Pat 3/5,SDF-1a.b,Decrease,Immune cell positioning,T cell chemotaxis; cell chemotaxis; chemotaxis; induction of positive chemotaxis; neuron migration; positive regulation of T cell migration; positive regulation of cell migration; positive regulation of monocyte chemotaxis; telencephalon cell migration
+Pat 3/5,SDF-1a.b,Decrease,Resolution,negative regulation of dendritic cell apoptotic process; negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage; negative regulation of leukocyte tethering or rolling
+Pat 3/5,SDF-1a.b,Decrease,Tissue construction / repair,animal organ regeneration
+Pat 3/5,TRAP5,Decrease,Immune cell activation,negative regulation of macrophage cytokine production
+Pat 3/5,TRAP5,Decrease,Resolution,negative regulation of inflammatory response; negative regulation of interleukin-1 beta production; negative regulation of interleukin-12 production; negative regulation of nitric oxide biosynthetic process; negative regulation of superoxide anion generation; negative regulation of tumor necrosis factor production
+Pat 3/5,TRAP5,Decrease,Tissue destruction,bone resorption
+Pat 3/5,YKL40,Decrease,Immune cell activation,activation of NF-kappaB-inducing kinase activity
+Pat 3/5,YKL40,Decrease,Tissue construction / repair,positive regulation of angiogenesis
+Pat 3/5,YKL40,Decrease,Tissue destruction,apoptotic process; cartilage development
+Pat 3/5,sCD40L,Decrease,Immune cell activation,platelet activation
+Pat 3/5,sCD40L,Decrease,Immune cell amplification,B cell proliferation; positive regulation of T cell proliferation
+Pat 3/5,sCD40L,Decrease,Resolution,negative regulation of apoptotic process
+Pat 3/5,sCD40L,Decrease,Tissue destruction,positive regulation of endothelial cell apoptotic process; positive regulation of extrinsic apoptotic signaling pathway
+Pat10Proa,G-CSF,Increase,Immune cell amplification,positive regulation of cell population proliferation
+Pat10Proa,GDF-15,Increase,Immune cell positioning,negative regulation of leukocyte migration
+Pat10Proa,GDF-15,Increase,Resolution,negative regulation of SMAD protein signal transduction; negative regulation of appetite; negative regulation of growth hormone receptor signaling pathway; negative regulation of multicellular organism growth; negative regulation of transforming growth factor beta receptor signaling pathway
+Pat10Proa,GM-CSF,Increase,Immune cell activation,cell surface receptor signaling pathway via JAK-STAT
+Pat10Proa,GM-CSF,Increase,Immune cell amplification,cell population proliferation; positive regulation of cell population proliferation; positive regulation of leukocyte proliferation
+Pat10Proa,GM-CSF,Increase,Immune cell positioning,positive regulation of cell migration
+Pat10Proa,GM-CSF,Increase,Resolution,negative regulation of DNA-templated transcription; negative regulation of extrinsic apoptotic signaling pathway in absence of ligand
+Pat10Proa,GM-CSF,Increase,Tissue construction / repair,epithelial fluid transport
+Pat10Proa,IL-17A,Increase,Bone remodeling,positive regulation of osteoclast differentiation
+Pat10Proa,IL-17A,Increase,Immune cell activation,fibroblast activation; innate immune response; positive regulation of cytokine production involved in inflammatory response
+Pat10Proa,IL-17A,Increase,Immune cell amplification,keratinocyte proliferation
+Pat10Proa,IL-17A,Increase,Immune cell positioning,granulocyte migration
+Pat10Proa,IL-17A,Increase,Resolution,negative regulation of inflammatory response to wounding
+Pat10Proa,IL-17A,Increase,Tissue construction / repair,intestinal epithelial structure maintenance
+Pat10Proa,IL-17A,Increase,Tissue destruction,apoptotic process; cell death
+Pat10Proa,IL-1A,Increase,Immune cell activation,cytokine production; positive regulation of cytokine production
+Pat10Proa,IL-1A,Increase,Immune cell amplification,negative regulation of cell population proliferation; positive regulation of immature T cell proliferation in thymus
+Pat10Proa,IL-1A,Increase,Immune cell positioning,positive regulation of neutrophil migration
+Pat10Proa,IL-1A,Increase,Resolution,negative regulation of establishment of Sertoli cell barrier; negative regulation of extrinsic apoptotic signaling pathway in absence of ligand
+Pat10Proa,IL-1A,Increase,Tissue construction / repair,connective tissue replacement involved in inflammatory response wound healing; positive regulation of angiogenesis
+Pat10Proa,IL-1A,Increase,Tissue destruction,apoptotic process; ectopic germ cell programmed cell death; extrinsic apoptotic signaling pathway in absence of ligand
+Pat10Proa,IL-1B,Increase,Immune cell activation,astrocyte activation; cytokine production; positive regulation of T-helper 1 cell cytokine production; positive regulation of complement activation
+Pat10Proa,IL-1B,Increase,Immune cell amplification,negative regulation of cell population proliferation; positive regulation of T cell proliferation; positive regulation of cell population proliferation; positive regulation of glial cell proliferation; positive regulation of immature T cell proliferation in thymus
+Pat10Proa,IL-1B,Increase,Immune cell positioning,neutrophil chemotaxis; positive regulation of cell migration
+Pat10Proa,IL-1B,Increase,Resolution,negative regulation of D-glucose transmembrane transport; negative regulation of MAP kinase activity; negative regulation of adiponectin secretion; negative regulation of extrinsic apoptotic signaling pathway in absence of ligand; negative regulation of gap junction assembly; negative regulation of insulin receptor signaling pathway; negative regulation of lipid catabolic process; negative regulation of lipid metabolic process; negative regulation of neurogenesis; negative regulation of synaptic transmission
+Pat10Proa,IL-1B,Increase,Tissue construction / repair,positive regulation of angiogenesis; positive regulation of epithelial to mesenchymal transition
+Pat10Proa,IL-1B,Increase,Tissue destruction,apoptotic process; ectopic germ cell programmed cell death; extrinsic apoptotic signaling pathway in absence of ligand
+Pat10Proa,IL-6,Increase,Bone remodeling,positive regulation of osteoblast differentiation
+Pat10Proa,IL-6,Increase,Immune cell activation,cell surface receptor signaling pathway via JAK-STAT; platelet activation; positive regulation of B cell activation; positive regulation of T-helper 2 cell cytokine production; positive regulation of cytokine production involved in inflammatory response; positive regulation of receptor signaling pathway via JAK-STAT; regulation of astrocyte activation; regulation of microglial cell activation
+Pat10Proa,IL-6,Increase,Immune cell amplification,hepatocyte proliferation; negative regulation of cell population proliferation; positive regulation of T cell proliferation; positive regulation of cell population proliferation; positive regulation of glial cell proliferation; positive regulation of smooth muscle cell proliferation
+Pat10Proa,IL-6,Increase,Immune cell positioning,monocyte chemotaxis; positive regulation of leukocyte chemotaxis
+Pat10Proa,IL-6,Increase,Resolution,negative regulation of apoptotic process; negative regulation of bone resorption; negative regulation of chemokine production; negative regulation of collagen biosynthetic process; negative regulation of fat cell differentiation; negative regulation of interleukin-1-mediated signaling pathway; negative regulation of lipid storage; negative regulation of neurogenesis; negative regulation of primary miRNA processing
+Pat10Proa,IL-6,Increase,Tissue construction / repair,liver regeneration; positive regulation of epithelial to mesenchymal transition; regulation of angiogenesis
+Pat10Proa,IL-6,Increase,Tissue destruction,neutrophil apoptotic process; positive regulation of apoptotic DNA fragmentation; positive regulation of apoptotic process; positive regulation of type B pancreatic cell apoptotic process
+Pat10Proa,MCP-3,Increase,Immune cell positioning,chemotaxis; eosinophil chemotaxis; monocyte chemotaxis; positive regulation of cell migration; positive regulation of natural killer cell chemotaxis
+Pat10Proa,MMP-1,Increase,Tissue construction / repair,extracellular matrix organization
+Pat10Proa,MMP-10,Increase,Tissue construction / repair,extracellular matrix organization
+Pat10Proa,MMP-2,Increase,Immune cell amplification,positive regulation of vascular associated smooth muscle cell proliferation
+Pat10Proa,MMP-2,Increase,Immune cell positioning,cell migration; macrophage chemotaxis; positive regulation of cell migration
+Pat10Proa,MMP-2,Increase,Resolution,negative regulation of cell adhesion; negative regulation of vasoconstriction
+Pat10Proa,MMP-2,Increase,Tissue construction / repair,angiogenesis; extracellular matrix organization; peripheral nervous system axon regeneration
+Pat10Proa,MMP-2,Increase,Tissue destruction,positive regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway
+Pat10Proa,OPG,Increase,Resolution,negative regulation of bone resorption; negative regulation of odontogenesis of dentin-containing tooth; negative regulation of osteoclast differentiation; negative regulation of tumor necrosis factor-mediated signaling pathway
+Pat10Proa,OPG,Increase,Tissue construction / repair,extracellular matrix organization
+Pat10Proa,OPG,Increase,Tissue destruction,apoptotic process
+Pat10Proa,RANTES,Increase,Immune cell activation,activation of phospholipase D activity; neutrophil activation; positive regulation of innate immune response; regulation of T cell activation
+Pat10Proa,RANTES,Increase,Immune cell amplification,epithelial cell proliferation; positive regulation of T cell proliferation; positive regulation of epithelial cell proliferation; positive regulation of smooth muscle cell proliferation
+Pat10Proa,RANTES,Increase,Immune cell positioning,chemotaxis; dendritic cell chemotaxis; eosinophil chemotaxis; macrophage chemotaxis; monocyte chemotaxis; positive chemotaxis; positive regulation of T cell chemotaxis; positive regulation of T cell migration; positive regulation of cell migration; positive regulation of macrophage chemotaxis; positive regulation of monocyte chemotaxis; positive regulation of natural killer cell chemotaxis; positive regulation of smooth muscle cell migration
+Pat10Proa,RANTES,Increase,Resolution,negative regulation by host of viral transcription; negative regulation of G protein-coupled receptor signaling pathway; negative regulation of T cell apoptotic process; negative regulation of chemokine-mediated signaling pathway; negative regulation of macrophage apoptotic process; negative regulation of viral genome replication
+Pat10Proa,RANTES,Increase,Tissue destruction,positive regulation of T cell apoptotic process
+Pat10Proa,SCF,Increase,Immune cell amplification,T cell proliferation; mast cell proliferation; positive regulation of T cell proliferation; positive regulation of cell population proliferation; positive regulation of hematopoietic stem cell proliferation; positive regulation of mast cell proliferation
+Pat10Proa,SCF,Increase,Immune cell positioning,mast cell migration; melanocyte migration; neural crest cell migration; positive regulation of leukocyte migration
+Pat10Proa,SCF,Increase,Resolution,negative regulation of mast cell apoptotic process
+Pat10Proa,SCF,Increase,Tissue destruction,ectopic germ cell programmed cell death; extrinsic apoptotic signaling pathway in absence of ligand; mast cell apoptotic process
+Pat10Proa,TGF-A,Increase,Immune cell amplification,hepatocyte proliferation; positive regulation of cell population proliferation; positive regulation of epithelial cell proliferation
+Pat10Proa,TGF-A,Increase,Tissue construction / repair,angiogenesis
+Pat10Proa,TRAP5,Increase,Immune cell activation,negative regulation of macrophage cytokine production
+Pat10Proa,TRAP5,Increase,Resolution,negative regulation of inflammatory response; negative regulation of interleukin-1 beta production; negative regulation of interleukin-12 production; negative regulation of nitric oxide biosynthetic process; negative regulation of superoxide anion generation; negative regulation of tumor necrosis factor production
+Pat10Proa,TRAP5,Increase,Tissue destruction,bone resorption
+Pat10Proa,sCD40L,Increase,Immune cell activation,platelet activation
+Pat10Proa,sCD40L,Increase,Immune cell amplification,B cell proliferation; positive regulation of T cell proliferation
+Pat10Proa,sCD40L,Increase,Resolution,negative regulation of apoptotic process
+Pat10Proa,sCD40L,Increase,Tissue destruction,positive regulation of endothelial cell apoptotic process; positive regulation of extrinsic apoptotic signaling pathway
+Pat10Prob,G-CSF,Increase,Immune cell amplification,positive regulation of cell population proliferation
+Pat10Prob,GDF-15,Increase,Immune cell positioning,negative regulation of leukocyte migration
+Pat10Prob,GDF-15,Increase,Resolution,negative regulation of SMAD protein signal transduction; negative regulation of appetite; negative regulation of growth hormone receptor signaling pathway; negative regulation of multicellular organism growth; negative regulation of transforming growth factor beta receptor signaling pathway
+Pat10Prob,IL-17A,Increase,Bone remodeling,positive regulation of osteoclast differentiation
+Pat10Prob,IL-17A,Increase,Immune cell activation,fibroblast activation; innate immune response; positive regulation of cytokine production involved in inflammatory response
+Pat10Prob,IL-17A,Increase,Immune cell amplification,keratinocyte proliferation
+Pat10Prob,IL-17A,Increase,Immune cell positioning,granulocyte migration
+Pat10Prob,IL-17A,Increase,Resolution,negative regulation of inflammatory response to wounding
+Pat10Prob,IL-17A,Increase,Tissue construction / repair,intestinal epithelial structure maintenance
+Pat10Prob,IL-17A,Increase,Tissue destruction,apoptotic process; cell death
+Pat10Prob,IL-1A,Increase,Immune cell activation,cytokine production; positive regulation of cytokine production
+Pat10Prob,IL-1A,Increase,Immune cell amplification,negative regulation of cell population proliferation; positive regulation of immature T cell proliferation in thymus
+Pat10Prob,IL-1A,Increase,Immune cell positioning,positive regulation of neutrophil migration
+Pat10Prob,IL-1A,Increase,Resolution,negative regulation of establishment of Sertoli cell barrier; negative regulation of extrinsic apoptotic signaling pathway in absence of ligand
+Pat10Prob,IL-1A,Increase,Tissue construction / repair,connective tissue replacement involved in inflammatory response wound healing; positive regulation of angiogenesis
+Pat10Prob,IL-1A,Increase,Tissue destruction,apoptotic process; ectopic germ cell programmed cell death; extrinsic apoptotic signaling pathway in absence of ligand
+Pat10Prob,IL-1B,Increase,Immune cell activation,astrocyte activation; cytokine production; positive regulation of T-helper 1 cell cytokine production; positive regulation of complement activation
+Pat10Prob,IL-1B,Increase,Immune cell amplification,negative regulation of cell population proliferation; positive regulation of T cell proliferation; positive regulation of cell population proliferation; positive regulation of glial cell proliferation; positive regulation of immature T cell proliferation in thymus
+Pat10Prob,IL-1B,Increase,Immune cell positioning,neutrophil chemotaxis; positive regulation of cell migration
+Pat10Prob,IL-1B,Increase,Resolution,negative regulation of D-glucose transmembrane transport; negative regulation of MAP kinase activity; negative regulation of adiponectin secretion; negative regulation of extrinsic apoptotic signaling pathway in absence of ligand; negative regulation of gap junction assembly; negative regulation of insulin receptor signaling pathway; negative regulation of lipid catabolic process; negative regulation of lipid metabolic process; negative regulation of neurogenesis; negative regulation of synaptic transmission
+Pat10Prob,IL-1B,Increase,Tissue construction / repair,positive regulation of angiogenesis; positive regulation of epithelial to mesenchymal transition
+Pat10Prob,IL-1B,Increase,Tissue destruction,apoptotic process; ectopic germ cell programmed cell death; extrinsic apoptotic signaling pathway in absence of ligand
+Pat10Prob,IL-28A,Increase,Immune cell activation,cell surface receptor signaling pathway via JAK-STAT; cellular response to virus; defense response to virus; innate immune response; mucosal immune response; positive regulation of immune response; type III interferon-mediated signaling pathway
+Pat10Prob,MMP-9,Increase,Immune cell amplification,positive regulation of vascular associated smooth muscle cell proliferation
+Pat10Prob,MMP-9,Increase,Immune cell positioning,cell migration; positive regulation of keratinocyte migration
+Pat10Prob,MMP-9,Increase,Resolution,negative regulation of apoptotic process; negative regulation of cation channel activity; negative regulation of epithelial cell differentiation involved in kidney development; negative regulation of intrinsic apoptotic signaling pathway
+Pat10Prob,MMP-9,Increase,Tissue construction / repair,extracellular matrix organization
+Pat10Prob,MMP-9,Increase,Tissue destruction,apoptotic process; positive regulation of apoptotic process
+Pat10Prob,OPG,Increase,Resolution,negative regulation of bone resorption; negative regulation of odontogenesis of dentin-containing tooth; negative regulation of osteoclast differentiation; negative regulation of tumor necrosis factor-mediated signaling pathway
+Pat10Prob,OPG,Increase,Tissue construction / repair,extracellular matrix organization
+Pat10Prob,OPG,Increase,Tissue destruction,apoptotic process
+Pat10Prob,TGF-A,Increase,Immune cell amplification,hepatocyte proliferation; positive regulation of cell population proliferation; positive regulation of epithelial cell proliferation
+Pat10Prob,TGF-A,Increase,Tissue construction / repair,angiogenesis
+Pat10Prob,VEGF,Increase,Bone remodeling,positive regulation of osteoblast differentiation
+Pat10Prob,VEGF,Increase,Immune cell amplification,endothelial cell proliferation; neuroblast proliferation; positive regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis; positive regulation of cell population proliferation; positive regulation of cell proliferation by VEGF-activated platelet derived growth factor receptor signaling pathway; positive regulation of endothelial cell proliferation; positive regulation of epithelial cell proliferation; positive regulation of neuroblast proliferation
+Pat10Prob,VEGF,Increase,Immune cell positioning,basophil chemotaxis; cell migration involved in sprouting angiogenesis; endothelial cell chemotaxis; induction of positive chemotaxis; motor neuron migration; positive chemotaxis; positive regulation of blood vessel endothelial cell migration; positive regulation of cell migration; positive regulation of cell migration involved in sprouting angiogenesis; positive regulation of endothelial cell chemotaxis; positive regulation of endothelial cell chemotaxis by VEGF-activated vascular endothelial growth factor receptor signaling pathway; positive regulation of endothelial cell migration; positive regulation of leukocyte migration; positive regulation of mast cell chemotaxis; positive regulation of positive chemotaxis; positive regulation of trophoblast cell migration
+Pat10Prob,VEGF,Increase,Resolution,negative regulation of adherens junction organization; negative regulation of apoptotic process; negative regulation of blood-brain barrier permeability; negative regulation of cell-cell adhesion mediated by cadherin; negative regulation of epithelial to mesenchymal transition; negative regulation of establishment of endothelial barrier; negative regulation of fat cell differentiation; negative regulation of gene expression; negative regulation of miRNA transcription; negative regulation of transcription by RNA polymerase II
+Pat10Prob,VEGF,Increase,Tissue construction / repair,angiogenesis; epithelial cell differentiation; epithelial cell maturation; lymphangiogenesis; positive regulation of angiogenesis; positive regulation of epithelial tube formation; positive regulation of lymphangiogenesis; positive regulation of sprouting angiogenesis; sprouting angiogenesis; vascular wound healing
+Pat10Prob,VEGF,Increase,Tissue destruction,apoptotic process
+Pat10Prob,YKL40,Increase,Immune cell activation,activation of NF-kappaB-inducing kinase activity
+Pat10Prob,YKL40,Increase,Tissue construction / repair,positive regulation of angiogenesis
+Pat10Prob,YKL40,Increase,Tissue destruction,apoptotic process; cartilage development
+Pat1Micsta,EGF,Decrease,Immune cell activation,regulation of receptor signaling pathway via JAK-STAT
+Pat1Micsta,EGF,Decrease,Immune cell amplification,cerebellar granule cell precursor proliferation; epithelial cell proliferation; positive regulation of cell population proliferation; positive regulation of cerebellar granule cell precursor proliferation; positive regulation of endothelial cell proliferation
+Pat1Micsta,EGF,Decrease,Immune cell positioning,positive regulation of cell migration; positive regulation of endothelial cell migration
+Pat1Micsta,EGF,Decrease,Resolution,negative regulation of cholesterol efflux; negative regulation of secretion
+Pat1Micsta,EGF,Decrease,Tissue construction / repair,angiogenesis; branching morphogenesis of an epithelial tube; positive regulation of epithelial tube formation
+Pat1Micsta,ENA-78,Decrease,Immune cell amplification,positive regulation of cell population proliferation
+Pat1Micsta,ENA-78,Decrease,Immune cell positioning,chemotaxis; neutrophil chemotaxis
+Pat1Micsta,Eotaxin,Decrease,Immune cell amplification,positive regulation of endothelial cell proliferation
+Pat1Micsta,Eotaxin,Decrease,Immune cell positioning,chemotaxis; eosinophil chemotaxis; mast cell chemotaxis; positive regulation of cell migration
+Pat1Micsta,Eotaxin,Decrease,Resolution,negative regulation of neurogenesis
+Pat1Micsta,Eotaxin,Decrease,Tissue construction / repair,positive regulation of angiogenesis
+Pat1Micsta,Flt-3L,Decrease,Immune cell amplification,positive regulation of cell population proliferation
+Pat1Micsta,GDF-15,Increase,Immune cell positioning,negative regulation of leukocyte migration
+Pat1Micsta,GDF-15,Increase,Resolution,negative regulation of SMAD protein signal transduction; negative regulation of appetite; negative regulation of growth hormone receptor signaling pathway; negative regulation of multicellular organism growth; negative regulation of transforming growth factor beta receptor signaling pathway
+Pat1Micsta,GM-CSF,Decrease,Immune cell activation,cell surface receptor signaling pathway via JAK-STAT
+Pat1Micsta,GM-CSF,Decrease,Immune cell amplification,cell population proliferation; positive regulation of cell population proliferation; positive regulation of leukocyte proliferation
+Pat1Micsta,GM-CSF,Decrease,Immune cell positioning,positive regulation of cell migration
+Pat1Micsta,GM-CSF,Decrease,Resolution,negative regulation of DNA-templated transcription; negative regulation of extrinsic apoptotic signaling pathway in absence of ligand
+Pat1Micsta,GM-CSF,Decrease,Tissue construction / repair,epithelial fluid transport
+Pat1Micsta,GRO,Decrease,Immune cell amplification,negative regulation of cell population proliferation
+Pat1Micsta,GRO,Decrease,Immune cell positioning,chemotaxis
+Pat1Micsta,Granzyme B,Increase,Resolution,negative regulation of translation
+Pat1Micsta,Granzyme B,Increase,Tissue destruction,apoptotic process; granzyme-mediated programmed cell death signaling pathway
+Pat1Micsta,IFN-A,Decrease,Immune cell activation,B cell activation involved in immune response; T cell activation involved in immune response; natural killer cell activation involved in immune response
+Pat1Micsta,IFN-y,Decrease,Bone remodeling,positive regulation of osteoclast differentiation
+Pat1Micsta,IFN-y,Decrease,Immune cell activation,astrocyte activation; cell surface receptor signaling pathway via JAK-STAT; macrophage activation involved in immune response; microglial cell activation; positive regulation of cytokine production
+Pat1Micsta,IFN-y,Decrease,Immune cell amplification,negative regulation of smooth muscle cell proliferation; positive regulation of cell population proliferation
+Pat1Micsta,IFN-y,Decrease,Immune cell positioning,positive regulation of epithelial cell migration
+Pat1Micsta,IFN-y,Decrease,Resolution,negative regulation of DNA-templated transcription; negative regulation of amyloid-beta clearance; negative regulation of epithelial cell differentiation; negative regulation of gene expression; negative regulation of interleukin-17 production; negative regulation of transcription by RNA polymerase II
+Pat1Micsta,IFN-y,Decrease,Tissue destruction,apoptotic process; extrinsic apoptotic signaling pathway; positive regulation of smooth muscle cell apoptotic process
+Pat1Micsta,IL-10,Decrease,Immune cell activation,negative regulation of cytokine production; negative regulation of cytokine production involved in immune response; negative regulation of myeloid dendritic cell activation; positive regulation of cytokine production; positive regulation of macrophage activation; positive regulation of receptor signaling pathway via JAK-STAT
+Pat1Micsta,IL-10,Decrease,Immune cell amplification,B cell proliferation; negative regulation of B cell proliferation; negative regulation of T cell proliferation; negative regulation of cell population proliferation; negative regulation of vascular associated smooth muscle cell proliferation; positive regulation of endothelial cell proliferation; positive regulation of vascular associated smooth muscle cell proliferation
+Pat1Micsta,IL-10,Decrease,Immune cell positioning,leukocyte chemotaxis
+Pat1Micsta,IL-10,Decrease,Resolution,negative regulation of MHC class II biosynthetic process; negative regulation of apoptotic process; negative regulation of autophagy; negative regulation of chemokine (C-C motif) ligand 5 production; negative regulation of chronic inflammatory response to antigenic stimulus; negative regulation of cytokine activity; negative regulation of heterotypic cell-cell adhesion; negative regulation of inflammatory response; negative regulation of interferon-alpha production; negative regulation of interleukin-1 production; negative regulation of interleukin-12 production; negative regulation of interleukin-18 production; negative regulation of interleukin-6 production; negative regulation of interleukin-8 production; negative regulation of membrane protein ectodomain proteolysis; negative regulation of mitotic cell cycle; negative regulation of nitric oxide biosynthetic process; negative regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway; negative regulation of tumor necrosis factor production; negative regulation of type II interferon production
+Pat1Micsta,IL-10,Decrease,Tissue construction / repair,liver regeneration; positive regulation of sprouting angiogenesis
+Pat1Micsta,IL-10,Decrease,Tissue destruction,endothelial cell apoptotic process; positive regulation of B cell apoptotic process
+Pat1Micsta,IL-12p40,Decrease,Bone remodeling,positive regulation of osteoclast differentiation
+Pat1Micsta,IL-12p40,Decrease,Immune cell activation,cell surface receptor signaling pathway via JAK-STAT; natural killer cell activation; natural killer cell activation involved in immune response; positive regulation of NK T cell activation; positive regulation of natural killer cell activation; regulation of cytokine production
+Pat1Micsta,IL-12p40,Decrease,Immune cell amplification,T cell proliferation; negative regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis; negative regulation of smooth muscle cell proliferation; positive regulation of NK T cell proliferation; positive regulation of T cell proliferation; positive regulation of activated T cell proliferation; positive regulation of lymphocyte proliferation; positive regulation of mononuclear cell proliferation; positive regulation of natural killer cell proliferation
+Pat1Micsta,IL-12p40,Decrease,Immune cell positioning,cell migration
+Pat1Micsta,IL-12p40,Decrease,Resolution,negative regulation of inflammatory response to antigenic stimulus; negative regulation of interleukin-10 production; negative regulation of interleukin-17 production; negative regulation of protein secretion; negative regulation of vascular endothelial growth factor signaling pathway
+Pat1Micsta,IL-12p40,Decrease,Tissue destruction,positive regulation of smooth muscle cell apoptotic process
+Pat1Micsta,IL-12p70,Decrease,Immune cell activation,positive regulation of NK T cell activation; positive regulation of natural killer cell activation
+Pat1Micsta,IL-12p70,Decrease,Immune cell amplification,negative regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis; negative regulation of smooth muscle cell proliferation; positive regulation of lymphocyte proliferation; positive regulation of mononuclear cell proliferation
+Pat1Micsta,IL-12p70,Decrease,Immune cell positioning,cell migration; positive regulation of dendritic cell chemotaxis
+Pat1Micsta,IL-12p70,Decrease,Resolution,negative regulation of interleukin-17 production; negative regulation of protein secretion; negative regulation of vascular endothelial growth factor signaling pathway
+Pat1Micsta,IL-12p70,Decrease,Tissue destruction,extrinsic apoptotic signaling pathway; positive regulation of smooth muscle cell apoptotic process
+Pat1Micsta,IL-13,Decrease,Immune cell activation,macrophage activation; microglial cell activation; positive regulation of macrophage activation
+Pat1Micsta,IL-13,Decrease,Immune cell amplification,positive regulation of B cell proliferation; positive regulation of pancreatic stellate cell proliferation; positive regulation of smooth muscle cell proliferation
+Pat1Micsta,IL-13,Decrease,Resolution,negative regulation of complement-dependent cytotoxicity; negative regulation of endothelial cell apoptotic process; negative regulation of inflammatory response; negative regulation of lung ciliated cell differentiation; negative regulation of transforming growth factor beta production
+Pat1Micsta,IL-15,Decrease,Immune cell activation,neutrophil activation; positive regulation of cytokine production
+Pat1Micsta,IL-15,Decrease,Immune cell amplification,NK T cell proliferation; natural killer cell proliferation; positive regulation of T cell proliferation; positive regulation of cell population proliferation; positive regulation of natural killer cell proliferation
+Pat1Micsta,IL-15,Decrease,Resolution,negative regulation of cold-induced thermogenesis
+Pat1Micsta,IL-17A,Decrease,Bone remodeling,positive regulation of osteoclast differentiation
+Pat1Micsta,IL-17A,Decrease,Immune cell activation,fibroblast activation; innate immune response; positive regulation of cytokine production involved in inflammatory response
+Pat1Micsta,IL-17A,Decrease,Immune cell amplification,keratinocyte proliferation
+Pat1Micsta,IL-17A,Decrease,Immune cell positioning,granulocyte migration
+Pat1Micsta,IL-17A,Decrease,Resolution,negative regulation of inflammatory response to wounding
+Pat1Micsta,IL-17A,Decrease,Tissue construction / repair,intestinal epithelial structure maintenance
+Pat1Micsta,IL-17A,Decrease,Tissue destruction,apoptotic process; cell death
+Pat1Micsta,IL-2,Decrease,Immune cell activation,leukocyte activation involved in immune response; natural killer cell activation
+Pat1Micsta,IL-2,Decrease,Immune cell amplification,"activated T cell proliferation; negative regulation of lymphocyte proliferation; positive regulation of B cell proliferation; positive regulation of activated T cell proliferation; positive regulation of cell population proliferation; regulation of CD4-positive, alpha-beta T cell proliferation; regulation of T cell homeostatic proliferation"
+Pat1Micsta,IL-2,Decrease,Resolution,negative regulation of B cell apoptotic process; negative regulation of T-helper 17 cell differentiation; negative regulation of apoptotic process; negative regulation of inflammatory response
+Pat1Micsta,IL-2,Decrease,Tissue destruction,extrinsic apoptotic signaling pathway in absence of ligand
+Pat1Micsta,IL-6,Decrease,Bone remodeling,positive regulation of osteoblast differentiation
+Pat1Micsta,IL-6,Decrease,Immune cell activation,cell surface receptor signaling pathway via JAK-STAT; platelet activation; positive regulation of B cell activation; positive regulation of T-helper 2 cell cytokine production; positive regulation of cytokine production involved in inflammatory response; positive regulation of receptor signaling pathway via JAK-STAT; regulation of astrocyte activation; regulation of microglial cell activation
+Pat1Micsta,IL-6,Decrease,Immune cell amplification,hepatocyte proliferation; negative regulation of cell population proliferation; positive regulation of T cell proliferation; positive regulation of cell population proliferation; positive regulation of glial cell proliferation; positive regulation of smooth muscle cell proliferation
+Pat1Micsta,IL-6,Decrease,Immune cell positioning,monocyte chemotaxis; positive regulation of leukocyte chemotaxis
+Pat1Micsta,IL-6,Decrease,Resolution,negative regulation of apoptotic process; negative regulation of bone resorption; negative regulation of chemokine production; negative regulation of collagen biosynthetic process; negative regulation of fat cell differentiation; negative regulation of interleukin-1-mediated signaling pathway; negative regulation of lipid storage; negative regulation of neurogenesis; negative regulation of primary miRNA processing
+Pat1Micsta,IL-6,Decrease,Tissue construction / repair,liver regeneration; positive regulation of epithelial to mesenchymal transition; regulation of angiogenesis
+Pat1Micsta,IL-6,Decrease,Tissue destruction,neutrophil apoptotic process; positive regulation of apoptotic DNA fragmentation; positive regulation of apoptotic process; positive regulation of type B pancreatic cell apoptotic process
+Pat1Micsta,IL-7,Decrease,Immune cell amplification,B cell proliferation; positive regulation of B cell proliferation; positive regulation of cell population proliferation
+Pat1Micsta,IL-7,Decrease,Resolution,negative regulation of apoptotic process; negative regulation of extrinsic apoptotic signaling pathway in absence of ligand
+Pat1Micsta,IL-7,Decrease,Tissue destruction,bone resorption; extrinsic apoptotic signaling pathway
+Pat1Micsta,IL-8,Decrease,Immune cell activation,neutrophil activation
+Pat1Micsta,IL-8,Decrease,Immune cell amplification,negative regulation of cell population proliferation
+Pat1Micsta,IL-8,Decrease,Immune cell positioning,chemotaxis; induction of positive chemotaxis; neutrophil chemotaxis; positive regulation of neutrophil chemotaxis
+Pat1Micsta,IL-8,Decrease,Resolution,negative regulation of G protein-coupled receptor signaling pathway; negative regulation of cell adhesion molecule production; negative regulation of gene expression
+Pat1Micsta,IL-8,Decrease,Tissue construction / repair,angiogenesis; positive regulation of angiogenesis
+Pat1Micsta,IP-10,Decrease,Immune cell activation,antiviral innate immune response; endothelial cell activation
+Pat1Micsta,IP-10,Decrease,Immune cell amplification,positive regulation of cell population proliferation; regulation of cell population proliferation
+Pat1Micsta,IP-10,Decrease,Immune cell positioning,T cell chemotaxis; chemotaxis; neutrophil chemotaxis; positive chemotaxis; positive regulation of T cell migration; positive regulation of monocyte chemotaxis; regulation of T cell chemotaxis
+Pat1Micsta,IP-10,Decrease,Resolution,negative regulation of angiogenesis; negative regulation of myoblast differentiation; negative regulation of myoblast fusion
+Pat1Micsta,IP-10,Decrease,Tissue destruction,regulation of apoptotic process
+Pat1Micsta,MCP-1,Decrease,Immune cell activation,cell surface receptor signaling pathway via JAK-STAT; positive regulation of T cell activation
+Pat1Micsta,MCP-1,Decrease,Immune cell amplification,negative regulation of vascular endothelial cell proliferation
+Pat1Micsta,MCP-1,Decrease,Immune cell positioning,astrocyte cell migration; chemotaxis; eosinophil chemotaxis; macrophage chemotaxis; monocyte chemotaxis; negative regulation of natural killer cell chemotaxis; positive regulation of cell migration
+Pat1Micsta,MCP-1,Decrease,Resolution,negative regulation of G1/S transition of mitotic cell cycle; negative regulation of glial cell apoptotic process; negative regulation of neuron apoptotic process
+Pat1Micsta,MCP-1,Decrease,Tissue construction / repair,angiogenesis
+Pat1Micsta,MCP-1,Decrease,Tissue destruction,positive regulation of apoptotic cell clearance; positive regulation of endothelial cell apoptotic process
+Pat1Micsta,MCP-3,Decrease,Immune cell positioning,chemotaxis; eosinophil chemotaxis; monocyte chemotaxis; positive regulation of cell migration; positive regulation of natural killer cell chemotaxis
+Pat1Micsta,MDC,Decrease,Immune cell positioning,chemotaxis; eosinophil chemotaxis; positive regulation of cell migration
+Pat1Micsta,MIP-1A,Decrease,Bone remodeling,osteoblast differentiation
+Pat1Micsta,MIP-1A,Decrease,Immune cell activation,cell activation; positive regulation of microglial cell activation
+Pat1Micsta,MIP-1A,Decrease,Immune cell positioning,T cell chemotaxis; astrocyte cell migration; cell chemotaxis; chemotaxis; eosinophil chemotaxis; granulocyte chemotaxis; lymphocyte chemotaxis; macrophage chemotaxis; monocyte chemotaxis; neutrophil chemotaxis; positive chemotaxis; positive regulation of cell migration; positive regulation of microglial cell migration; positive regulation of natural killer cell chemotaxis
+Pat1Micsta,MIP-1A,Decrease,Resolution,negative regulation by host of viral transcription; negative regulation of bone mineralization; negative regulation of gene expression; negative regulation of osteoclast differentiation
+Pat1Micsta,MIP-1A,Decrease,Tissue destruction,positive regulation of neuron apoptotic process
+Pat1Micsta,MIP-1B,Decrease,Immune cell positioning,eosinophil chemotaxis; positive regulation of cell migration; positive regulation of natural killer cell chemotaxis
+Pat1Micsta,MIP-1B,Decrease,Resolution,negative regulation by host of viral transcription
+Pat1Micsta,MMP-2,Increase,Immune cell amplification,positive regulation of vascular associated smooth muscle cell proliferation
+Pat1Micsta,MMP-2,Increase,Immune cell positioning,cell migration; macrophage chemotaxis; positive regulation of cell migration
+Pat1Micsta,MMP-2,Increase,Resolution,negative regulation of cell adhesion; negative regulation of vasoconstriction
+Pat1Micsta,MMP-2,Increase,Tissue construction / repair,angiogenesis; extracellular matrix organization; peripheral nervous system axon regeneration
+Pat1Micsta,MMP-2,Increase,Tissue destruction,positive regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway
+Pat1Micsta,Periostin,Increase,Immune cell positioning,positive regulation of smooth muscle cell migration
+Pat1Micsta,Periostin,Increase,Resolution,negative regulation of cell-matrix adhesion; negative regulation of substrate adhesion-dependent cell spreading
+Pat1Micsta,Periostin,Increase,Tissue construction / repair,bone regeneration; extracellular matrix organization
+Pat1Micsta,RANKL,Decrease,Bone remodeling,osteoclast development; osteoclast differentiation; positive regulation of osteoclast development; positive regulation of osteoclast differentiation
+Pat1Micsta,RANKL,Decrease,Immune cell activation,positive regulation of T cell activation
+Pat1Micsta,RANKL,Decrease,Immune cell amplification,mammary gland epithelial cell proliferation; osteoclast proliferation
+Pat1Micsta,RANKL,Decrease,Immune cell positioning,monocyte chemotaxis
+Pat1Micsta,RANKL,Decrease,Resolution,negative regulation of transcription by RNA polymerase II
+Pat1Micsta,RANKL,Decrease,Tissue destruction,bone resorption; positive regulation of bone resorption; positive regulation of extrinsic apoptotic signaling pathway
+Pat1Micsta,SCF,Increase,Immune cell amplification,T cell proliferation; mast cell proliferation; positive regulation of T cell proliferation; positive regulation of cell population proliferation; positive regulation of hematopoietic stem cell proliferation; positive regulation of mast cell proliferation
+Pat1Micsta,SCF,Increase,Immune cell positioning,mast cell migration; melanocyte migration; neural crest cell migration; positive regulation of leukocyte migration
+Pat1Micsta,SCF,Increase,Resolution,negative regulation of mast cell apoptotic process
+Pat1Micsta,SCF,Increase,Tissue destruction,ectopic germ cell programmed cell death; extrinsic apoptotic signaling pathway in absence of ligand; mast cell apoptotic process
+Pat1Micsta,TNF-A,Decrease,Bone remodeling,osteoclast differentiation; positive regulation of osteoclast differentiation
+Pat1Micsta,TNF-A,Decrease,Immune cell activation,antiviral innate immune response; astrocyte activation; cell surface receptor signaling pathway via JAK-STAT; macrophage activation involved in immune response; microglial cell activation; negative regulation of cytokine production involved in immune response; positive regulation of cytokine production; positive regulation of cytokine production involved in inflammatory response; positive regulation of neutrophil activation
+Pat1Micsta,TNF-A,Decrease,Immune cell amplification,epithelial cell proliferation involved in salivary gland morphogenesis; negative regulation of endothelial cell proliferation; positive regulation of glial cell proliferation; positive regulation of hepatocyte proliferation; positive regulation of smooth muscle cell proliferation; positive regulation of synoviocyte proliferation; positive regulation of vascular associated smooth muscle cell proliferation
+Pat1Micsta,TNF-A,Decrease,Immune cell positioning,leukocyte migration involved in inflammatory response; negative regulation of blood vessel endothelial cell migration; positive regulation of mononuclear cell migration
+Pat1Micsta,TNF-A,Decrease,Resolution,negative regulation of D-glucose import; negative regulation of DNA-templated transcription; negative regulation of L-glutamate import across plasma membrane; negative regulation of amyloid-beta clearance; negative regulation of apoptotic signaling pathway; negative regulation of bicellular tight junction assembly; negative regulation of bile acid secretion; negative regulation of branching involved in lung morphogenesis; negative regulation of extrinsic apoptotic signaling pathway in absence of ligand; negative regulation of fat cell differentiation; negative regulation of gene expression; negative regulation of heart rate; negative regulation of interleukin-6 production; negative regulation of lipid catabolic process; negative regulation of lipid storage; negative regulation of miRNA transcription; negative regulation of mitotic cell cycle; negative regulation of myelination; negative regulation of myoblast differentiation; negative regulation of neurogenesis; negative regulation of osteoblast differentiation; negative regulation of oxidative phosphorylation; negative regulation of protein-containing complex disassembly; negative regulation of signaling receptor activity; negative regulation of systemic arterial blood pressure; negative regulation of transcription by RNA polymerase II; negative regulation of vascular wound healing; negative regulation of viral genome replication
+Pat1Micsta,TNF-A,Decrease,Tissue construction / repair,extracellular matrix organization; liver regeneration
+Pat1Micsta,TNF-A,Decrease,Tissue destruction,endothelial cell apoptotic process; extrinsic apoptotic signaling pathway; extrinsic apoptotic signaling pathway via death domain receptors; intrinsic apoptotic signaling pathway in response to DNA damage; positive regulation of apoptotic process; positive regulation of extrinsic apoptotic signaling pathway; positive regulation of neuron apoptotic process; positive regulation of programmed cell death; regulation of endothelial cell apoptotic process
+Pat1Micsta,TRAIL,Decrease,Tissue destruction,TRAIL-activated apoptotic signaling pathway; apoptotic process; positive regulation of apoptotic process; positive regulation of extrinsic apoptotic signaling pathway
+Pat1Micsta,VEGF,Decrease,Bone remodeling,positive regulation of osteoblast differentiation
+Pat1Micsta,VEGF,Decrease,Immune cell amplification,endothelial cell proliferation; neuroblast proliferation; positive regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis; positive regulation of cell population proliferation; positive regulation of cell proliferation by VEGF-activated platelet derived growth factor receptor signaling pathway; positive regulation of endothelial cell proliferation; positive regulation of epithelial cell proliferation; positive regulation of neuroblast proliferation
+Pat1Micsta,VEGF,Decrease,Immune cell positioning,basophil chemotaxis; cell migration involved in sprouting angiogenesis; endothelial cell chemotaxis; induction of positive chemotaxis; motor neuron migration; positive chemotaxis; positive regulation of blood vessel endothelial cell migration; positive regulation of cell migration; positive regulation of cell migration involved in sprouting angiogenesis; positive regulation of endothelial cell chemotaxis; positive regulation of endothelial cell chemotaxis by VEGF-activated vascular endothelial growth factor receptor signaling pathway; positive regulation of endothelial cell migration; positive regulation of leukocyte migration; positive regulation of mast cell chemotaxis; positive regulation of positive chemotaxis; positive regulation of trophoblast cell migration
+Pat1Micsta,VEGF,Decrease,Resolution,negative regulation of adherens junction organization; negative regulation of apoptotic process; negative regulation of blood-brain barrier permeability; negative regulation of cell-cell adhesion mediated by cadherin; negative regulation of epithelial to mesenchymal transition; negative regulation of establishment of endothelial barrier; negative regulation of fat cell differentiation; negative regulation of gene expression; negative regulation of miRNA transcription; negative regulation of transcription by RNA polymerase II
+Pat1Micsta,VEGF,Decrease,Tissue construction / repair,angiogenesis; epithelial cell differentiation; epithelial cell maturation; lymphangiogenesis; positive regulation of angiogenesis; positive regulation of epithelial tube formation; positive regulation of lymphangiogenesis; positive regulation of sprouting angiogenesis; sprouting angiogenesis; vascular wound healing
+Pat1Micsta,VEGF,Decrease,Tissue destruction,apoptotic process
+Pat2,MMP-8,Increase,Immune cell activation,positive regulation of microglial cell activation
+Pat2,MMP-8,Increase,Tissue construction / repair,extracellular matrix organization
+Pat4,Eotaxin-2,Increase,Immune cell amplification,positive regulation of endothelial cell proliferation
+Pat4,Eotaxin-2,Increase,Immune cell positioning,chemotaxis; eosinophil chemotaxis; positive regulation of cell migration; positive regulation of eosinophil migration
+Pat4,Eotaxin-2,Increase,Tissue construction / repair,positive regulation of angiogenesis
+Pat4,IL-8,Decrease,Immune cell activation,neutrophil activation
+Pat4,IL-8,Decrease,Immune cell amplification,negative regulation of cell population proliferation
+Pat4,IL-8,Decrease,Immune cell positioning,chemotaxis; induction of positive chemotaxis; neutrophil chemotaxis; positive regulation of neutrophil chemotaxis
+Pat4,IL-8,Decrease,Resolution,negative regulation of G protein-coupled receptor signaling pathway; negative regulation of cell adhesion molecule production; negative regulation of gene expression
+Pat4,IL-8,Decrease,Tissue construction / repair,angiogenesis; positive regulation of angiogenesis
+Pat4,MMP-1,Decrease,Tissue construction / repair,extracellular matrix organization
+Pat4,MMP-10,Decrease,Tissue construction / repair,extracellular matrix organization
+Pat4,Periostin,Decrease,Immune cell positioning,positive regulation of smooth muscle cell migration
+Pat4,Periostin,Decrease,Resolution,negative regulation of cell-matrix adhesion; negative regulation of substrate adhesion-dependent cell spreading
+Pat4,Periostin,Decrease,Tissue construction / repair,bone regeneration; extracellular matrix organization
+Pat4,RANKL,Decrease,Bone remodeling,osteoclast development; osteoclast differentiation; positive regulation of osteoclast development; positive regulation of osteoclast differentiation
+Pat4,RANKL,Decrease,Immune cell activation,positive regulation of T cell activation
+Pat4,RANKL,Decrease,Immune cell amplification,mammary gland epithelial cell proliferation; osteoclast proliferation
+Pat4,RANKL,Decrease,Immune cell positioning,monocyte chemotaxis
+Pat4,RANKL,Decrease,Resolution,negative regulation of transcription by RNA polymerase II
+Pat4,RANKL,Decrease,Tissue destruction,bone resorption; positive regulation of bone resorption; positive regulation of extrinsic apoptotic signaling pathway
+Pat7,BCA-1,Decrease,Immune cell activation,activation of GTPase activity; positive regulation of integrin activation
+Pat7,BCA-1,Decrease,Immune cell positioning,B cell chemotaxis; endothelial cell chemotaxis to fibroblast growth factor; lymphocyte chemotaxis across high endothelial venule; negative regulation of endothelial cell chemotaxis to fibroblast growth factor; neutrophil chemotaxis; positive regulation of T cell chemotaxis
+Pat7,BCA-1,Decrease,Tissue construction / repair,regulation of angiogenesis
+Pat7,EGF,Decrease,Immune cell activation,regulation of receptor signaling pathway via JAK-STAT
+Pat7,EGF,Decrease,Immune cell amplification,cerebellar granule cell precursor proliferation; epithelial cell proliferation; positive regulation of cell population proliferation; positive regulation of cerebellar granule cell precursor proliferation; positive regulation of endothelial cell proliferation
+Pat7,EGF,Decrease,Immune cell positioning,positive regulation of cell migration; positive regulation of endothelial cell migration
+Pat7,EGF,Decrease,Resolution,negative regulation of cholesterol efflux; negative regulation of secretion
+Pat7,EGF,Decrease,Tissue construction / repair,angiogenesis; branching morphogenesis of an epithelial tube; positive regulation of epithelial tube formation
+Pat7,Eotaxin-2,Decrease,Immune cell amplification,positive regulation of endothelial cell proliferation
+Pat7,Eotaxin-2,Decrease,Immune cell positioning,chemotaxis; eosinophil chemotaxis; positive regulation of cell migration; positive regulation of eosinophil migration
+Pat7,Eotaxin-2,Decrease,Tissue construction / repair,positive regulation of angiogenesis
+Pat7,Flt-3L,Decrease,Immune cell amplification,positive regulation of cell population proliferation
+Pat7,Fractalkine,Decrease,Immune cell activation,integrin activation; leukocyte adhesive activation; microglial cell activation; negative regulation of microglial cell activation
+Pat7,Fractalkine,Decrease,Immune cell amplification,microglial cell proliferation; positive regulation of cell population proliferation; positive regulation of neuroblast proliferation; positive regulation of smooth muscle cell proliferation
+Pat7,Fractalkine,Decrease,Immune cell positioning,cell chemotaxis; chemotaxis; eosinophil chemotaxis; leukocyte chemotaxis; leukocyte migration involved in inflammatory response; lymphocyte chemotaxis; macrophage chemotaxis; negative regulation of cell migration; negative regulation of neuron migration; neutrophil chemotaxis; positive chemotaxis; positive regulation of cell migration; positive regulation of microglial cell migration
+Pat7,Fractalkine,Decrease,Resolution,negative regulation of apoptotic process; negative regulation of apoptotic signaling pathway; negative regulation of cell-substrate adhesion; negative regulation of extrinsic apoptotic signaling pathway in absence of ligand; negative regulation of glutamate receptor signaling pathway; negative regulation of hippocampal neuron apoptotic process; negative regulation of interleukin-1 alpha production; negative regulation of interleukin-1 beta production; negative regulation of interleukin-6 production; negative regulation of tumor necrosis factor production
+Pat7,Fractalkine,Decrease,Tissue construction / repair,angiogenesis involved in wound healing; positive regulation of angiogenesis
+Pat7,Fractalkine,Decrease,Tissue destruction,extrinsic apoptotic signaling pathway in absence of ligand
+Pat7,G-CSF,Decrease,Immune cell amplification,positive regulation of cell population proliferation
+Pat7,GM-CSF,Decrease,Immune cell activation,cell surface receptor signaling pathway via JAK-STAT
+Pat7,GM-CSF,Decrease,Immune cell amplification,cell population proliferation; positive regulation of cell population proliferation; positive regulation of leukocyte proliferation
+Pat7,GM-CSF,Decrease,Immune cell positioning,positive regulation of cell migration
+Pat7,GM-CSF,Decrease,Resolution,negative regulation of DNA-templated transcription; negative regulation of extrinsic apoptotic signaling pathway in absence of ligand
+Pat7,GM-CSF,Decrease,Tissue construction / repair,epithelial fluid transport
+Pat7,Granzyme B,Decrease,Resolution,negative regulation of translation
+Pat7,Granzyme B,Decrease,Tissue destruction,apoptotic process; granzyme-mediated programmed cell death signaling pathway
+Pat7,HSP70,Decrease,Immune cell amplification,negative regulation of cell population proliferation
+Pat7,HSP70,Decrease,Resolution,negative regulation of apoptotic process; negative regulation of cell growth; negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway; negative regulation of extrinsic apoptotic signaling pathway in absence of ligand; negative regulation of inclusion body assembly; negative regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway; negative regulation of protein ubiquitination; negative regulation of transcription by RNA polymerase II; negative regulation of transforming growth factor beta receptor signaling pathway
+Pat7,IFN-A,Decrease,Immune cell activation,B cell activation involved in immune response; T cell activation involved in immune response; natural killer cell activation involved in immune response
+Pat7,IFN-y,Decrease,Bone remodeling,positive regulation of osteoclast differentiation
+Pat7,IFN-y,Decrease,Immune cell activation,astrocyte activation; cell surface receptor signaling pathway via JAK-STAT; macrophage activation involved in immune response; microglial cell activation; positive regulation of cytokine production
+Pat7,IFN-y,Decrease,Immune cell amplification,negative regulation of smooth muscle cell proliferation; positive regulation of cell population proliferation
+Pat7,IFN-y,Decrease,Immune cell positioning,positive regulation of epithelial cell migration
+Pat7,IFN-y,Decrease,Resolution,negative regulation of DNA-templated transcription; negative regulation of amyloid-beta clearance; negative regulation of epithelial cell differentiation; negative regulation of gene expression; negative regulation of interleukin-17 production; negative regulation of transcription by RNA polymerase II
+Pat7,IFN-y,Decrease,Tissue destruction,apoptotic process; extrinsic apoptotic signaling pathway; positive regulation of smooth muscle cell apoptotic process
+Pat7,IL-10,Decrease,Immune cell activation,negative regulation of cytokine production; negative regulation of cytokine production involved in immune response; negative regulation of myeloid dendritic cell activation; positive regulation of cytokine production; positive regulation of macrophage activation; positive regulation of receptor signaling pathway via JAK-STAT
+Pat7,IL-10,Decrease,Immune cell amplification,B cell proliferation; negative regulation of B cell proliferation; negative regulation of T cell proliferation; negative regulation of cell population proliferation; negative regulation of vascular associated smooth muscle cell proliferation; positive regulation of endothelial cell proliferation; positive regulation of vascular associated smooth muscle cell proliferation
+Pat7,IL-10,Decrease,Immune cell positioning,leukocyte chemotaxis
+Pat7,IL-10,Decrease,Resolution,negative regulation of MHC class II biosynthetic process; negative regulation of apoptotic process; negative regulation of autophagy; negative regulation of chemokine (C-C motif) ligand 5 production; negative regulation of chronic inflammatory response to antigenic stimulus; negative regulation of cytokine activity; negative regulation of heterotypic cell-cell adhesion; negative regulation of inflammatory response; negative regulation of interferon-alpha production; negative regulation of interleukin-1 production; negative regulation of interleukin-12 production; negative regulation of interleukin-18 production; negative regulation of interleukin-6 production; negative regulation of interleukin-8 production; negative regulation of membrane protein ectodomain proteolysis; negative regulation of mitotic cell cycle; negative regulation of nitric oxide biosynthetic process; negative regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway; negative regulation of tumor necrosis factor production; negative regulation of type II interferon production
+Pat7,IL-10,Decrease,Tissue construction / repair,liver regeneration; positive regulation of sprouting angiogenesis
+Pat7,IL-10,Decrease,Tissue destruction,endothelial cell apoptotic process; positive regulation of B cell apoptotic process
+Pat7,IL-12p40,Decrease,Bone remodeling,positive regulation of osteoclast differentiation
+Pat7,IL-12p40,Decrease,Immune cell activation,cell surface receptor signaling pathway via JAK-STAT; natural killer cell activation; natural killer cell activation involved in immune response; positive regulation of NK T cell activation; positive regulation of natural killer cell activation; regulation of cytokine production
+Pat7,IL-12p40,Decrease,Immune cell amplification,T cell proliferation; negative regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis; negative regulation of smooth muscle cell proliferation; positive regulation of NK T cell proliferation; positive regulation of T cell proliferation; positive regulation of activated T cell proliferation; positive regulation of lymphocyte proliferation; positive regulation of mononuclear cell proliferation; positive regulation of natural killer cell proliferation
+Pat7,IL-12p40,Decrease,Immune cell positioning,cell migration
+Pat7,IL-12p40,Decrease,Resolution,negative regulation of inflammatory response to antigenic stimulus; negative regulation of interleukin-10 production; negative regulation of interleukin-17 production; negative regulation of protein secretion; negative regulation of vascular endothelial growth factor signaling pathway
+Pat7,IL-12p40,Decrease,Tissue destruction,positive regulation of smooth muscle cell apoptotic process
+Pat7,IL-13,Decrease,Immune cell activation,macrophage activation; microglial cell activation; positive regulation of macrophage activation
+Pat7,IL-13,Decrease,Immune cell amplification,positive regulation of B cell proliferation; positive regulation of pancreatic stellate cell proliferation; positive regulation of smooth muscle cell proliferation
+Pat7,IL-13,Decrease,Resolution,negative regulation of complement-dependent cytotoxicity; negative regulation of endothelial cell apoptotic process; negative regulation of inflammatory response; negative regulation of lung ciliated cell differentiation; negative regulation of transforming growth factor beta production
+Pat7,IL-16,Decrease,Immune cell activation,positive regulation of neutrophil activation
+Pat7,IL-16,Decrease,Immune cell positioning,induction of positive chemotaxis; leukocyte chemotaxis
+Pat7,IL-1A,Decrease,Immune cell activation,cytokine production; positive regulation of cytokine production
+Pat7,IL-1A,Decrease,Immune cell amplification,negative regulation of cell population proliferation; positive regulation of immature T cell proliferation in thymus
+Pat7,IL-1A,Decrease,Immune cell positioning,positive regulation of neutrophil migration
+Pat7,IL-1A,Decrease,Resolution,negative regulation of establishment of Sertoli cell barrier; negative regulation of extrinsic apoptotic signaling pathway in absence of ligand
+Pat7,IL-1A,Decrease,Tissue construction / repair,connective tissue replacement involved in inflammatory response wound healing; positive regulation of angiogenesis
+Pat7,IL-1A,Decrease,Tissue destruction,apoptotic process; ectopic germ cell programmed cell death; extrinsic apoptotic signaling pathway in absence of ligand
+Pat7,IL-1B,Decrease,Immune cell activation,astrocyte activation; cytokine production; positive regulation of T-helper 1 cell cytokine production; positive regulation of complement activation
+Pat7,IL-1B,Decrease,Immune cell amplification,negative regulation of cell population proliferation; positive regulation of T cell proliferation; positive regulation of cell population proliferation; positive regulation of glial cell proliferation; positive regulation of immature T cell proliferation in thymus
+Pat7,IL-1B,Decrease,Immune cell positioning,neutrophil chemotaxis; positive regulation of cell migration
+Pat7,IL-1B,Decrease,Resolution,negative regulation of D-glucose transmembrane transport; negative regulation of MAP kinase activity; negative regulation of adiponectin secretion; negative regulation of extrinsic apoptotic signaling pathway in absence of ligand; negative regulation of gap junction assembly; negative regulation of insulin receptor signaling pathway; negative regulation of lipid catabolic process; negative regulation of lipid metabolic process; negative regulation of neurogenesis; negative regulation of synaptic transmission
+Pat7,IL-1B,Decrease,Tissue construction / repair,positive regulation of angiogenesis; positive regulation of epithelial to mesenchymal transition
+Pat7,IL-1B,Decrease,Tissue destruction,apoptotic process; ectopic germ cell programmed cell death; extrinsic apoptotic signaling pathway in absence of ligand
+Pat7,IL-1RA,Decrease,Resolution,negative regulation of cytokine-mediated signaling pathway; negative regulation of heterotypic cell-cell adhesion; negative regulation of interleukin-1-mediated signaling pathway
+Pat7,IL-6,Decrease,Bone remodeling,positive regulation of osteoblast differentiation
+Pat7,IL-6,Decrease,Immune cell activation,cell surface receptor signaling pathway via JAK-STAT; platelet activation; positive regulation of B cell activation; positive regulation of T-helper 2 cell cytokine production; positive regulation of cytokine production involved in inflammatory response; positive regulation of receptor signaling pathway via JAK-STAT; regulation of astrocyte activation; regulation of microglial cell activation
+Pat7,IL-6,Decrease,Immune cell amplification,hepatocyte proliferation; negative regulation of cell population proliferation; positive regulation of T cell proliferation; positive regulation of cell population proliferation; positive regulation of glial cell proliferation; positive regulation of smooth muscle cell proliferation
+Pat7,IL-6,Decrease,Immune cell positioning,monocyte chemotaxis; positive regulation of leukocyte chemotaxis
+Pat7,IL-6,Decrease,Resolution,negative regulation of apoptotic process; negative regulation of bone resorption; negative regulation of chemokine production; negative regulation of collagen biosynthetic process; negative regulation of fat cell differentiation; negative regulation of interleukin-1-mediated signaling pathway; negative regulation of lipid storage; negative regulation of neurogenesis; negative regulation of primary miRNA processing
+Pat7,IL-6,Decrease,Tissue construction / repair,liver regeneration; positive regulation of epithelial to mesenchymal transition; regulation of angiogenesis
+Pat7,IL-6,Decrease,Tissue destruction,neutrophil apoptotic process; positive regulation of apoptotic DNA fragmentation; positive regulation of apoptotic process; positive regulation of type B pancreatic cell apoptotic process
+Pat7,IL-8,Decrease,Immune cell activation,neutrophil activation
+Pat7,IL-8,Decrease,Immune cell amplification,negative regulation of cell population proliferation
+Pat7,IL-8,Decrease,Immune cell positioning,chemotaxis; induction of positive chemotaxis; neutrophil chemotaxis; positive regulation of neutrophil chemotaxis
+Pat7,IL-8,Decrease,Resolution,negative regulation of G protein-coupled receptor signaling pathway; negative regulation of cell adhesion molecule production; negative regulation of gene expression
+Pat7,IL-8,Decrease,Tissue construction / repair,angiogenesis; positive regulation of angiogenesis
+Pat7,MCP-1,Decrease,Immune cell activation,cell surface receptor signaling pathway via JAK-STAT; positive regulation of T cell activation
+Pat7,MCP-1,Decrease,Immune cell amplification,negative regulation of vascular endothelial cell proliferation
+Pat7,MCP-1,Decrease,Immune cell positioning,astrocyte cell migration; chemotaxis; eosinophil chemotaxis; macrophage chemotaxis; monocyte chemotaxis; negative regulation of natural killer cell chemotaxis; positive regulation of cell migration
+Pat7,MCP-1,Decrease,Resolution,negative regulation of G1/S transition of mitotic cell cycle; negative regulation of glial cell apoptotic process; negative regulation of neuron apoptotic process
+Pat7,MCP-1,Decrease,Tissue construction / repair,angiogenesis
+Pat7,MCP-1,Decrease,Tissue destruction,positive regulation of apoptotic cell clearance; positive regulation of endothelial cell apoptotic process
+Pat7,MIP-1A,Decrease,Bone remodeling,osteoblast differentiation
+Pat7,MIP-1A,Decrease,Immune cell activation,cell activation; positive regulation of microglial cell activation
+Pat7,MIP-1A,Decrease,Immune cell positioning,T cell chemotaxis; astrocyte cell migration; cell chemotaxis; chemotaxis; eosinophil chemotaxis; granulocyte chemotaxis; lymphocyte chemotaxis; macrophage chemotaxis; monocyte chemotaxis; neutrophil chemotaxis; positive chemotaxis; positive regulation of cell migration; positive regulation of microglial cell migration; positive regulation of natural killer cell chemotaxis
+Pat7,MIP-1A,Decrease,Resolution,negative regulation by host of viral transcription; negative regulation of bone mineralization; negative regulation of gene expression; negative regulation of osteoclast differentiation
+Pat7,MIP-1A,Decrease,Tissue destruction,positive regulation of neuron apoptotic process
+Pat7,MIP-1B,Decrease,Immune cell positioning,eosinophil chemotaxis; positive regulation of cell migration; positive regulation of natural killer cell chemotaxis
+Pat7,MIP-1B,Decrease,Resolution,negative regulation by host of viral transcription
+Pat7,OPG,Decrease,Resolution,negative regulation of bone resorption; negative regulation of odontogenesis of dentin-containing tooth; negative regulation of osteoclast differentiation; negative regulation of tumor necrosis factor-mediated signaling pathway
+Pat7,OPG,Decrease,Tissue construction / repair,extracellular matrix organization
+Pat7,OPG,Decrease,Tissue destruction,apoptotic process
+Pat7,RANKL,Decrease,Bone remodeling,osteoclast development; osteoclast differentiation; positive regulation of osteoclast development; positive regulation of osteoclast differentiation
+Pat7,RANKL,Decrease,Immune cell activation,positive regulation of T cell activation
+Pat7,RANKL,Decrease,Immune cell amplification,mammary gland epithelial cell proliferation; osteoclast proliferation
+Pat7,RANKL,Decrease,Immune cell positioning,monocyte chemotaxis
+Pat7,RANKL,Decrease,Resolution,negative regulation of transcription by RNA polymerase II
+Pat7,RANKL,Decrease,Tissue destruction,bone resorption; positive regulation of bone resorption; positive regulation of extrinsic apoptotic signaling pathway
+Pat7,RANTES,Decrease,Immune cell activation,activation of phospholipase D activity; neutrophil activation; positive regulation of innate immune response; regulation of T cell activation
+Pat7,RANTES,Decrease,Immune cell amplification,epithelial cell proliferation; positive regulation of T cell proliferation; positive regulation of epithelial cell proliferation; positive regulation of smooth muscle cell proliferation
+Pat7,RANTES,Decrease,Immune cell positioning,chemotaxis; dendritic cell chemotaxis; eosinophil chemotaxis; macrophage chemotaxis; monocyte chemotaxis; positive chemotaxis; positive regulation of T cell chemotaxis; positive regulation of T cell migration; positive regulation of cell migration; positive regulation of macrophage chemotaxis; positive regulation of monocyte chemotaxis; positive regulation of natural killer cell chemotaxis; positive regulation of smooth muscle cell migration
+Pat7,RANTES,Decrease,Resolution,negative regulation by host of viral transcription; negative regulation of G protein-coupled receptor signaling pathway; negative regulation of T cell apoptotic process; negative regulation of chemokine-mediated signaling pathway; negative regulation of macrophage apoptotic process; negative regulation of viral genome replication
+Pat7,RANTES,Decrease,Tissue destruction,positive regulation of T cell apoptotic process
+Pat7,TGF-A,Decrease,Immune cell amplification,hepatocyte proliferation; positive regulation of cell population proliferation; positive regulation of epithelial cell proliferation
+Pat7,TGF-A,Decrease,Tissue construction / repair,angiogenesis
+Pat7,TNF-A,Decrease,Bone remodeling,osteoclast differentiation; positive regulation of osteoclast differentiation
+Pat7,TNF-A,Decrease,Immune cell activation,antiviral innate immune response; astrocyte activation; cell surface receptor signaling pathway via JAK-STAT; macrophage activation involved in immune response; microglial cell activation; negative regulation of cytokine production involved in immune response; positive regulation of cytokine production; positive regulation of cytokine production involved in inflammatory response; positive regulation of neutrophil activation
+Pat7,TNF-A,Decrease,Immune cell amplification,epithelial cell proliferation involved in salivary gland morphogenesis; negative regulation of endothelial cell proliferation; positive regulation of glial cell proliferation; positive regulation of hepatocyte proliferation; positive regulation of smooth muscle cell proliferation; positive regulation of synoviocyte proliferation; positive regulation of vascular associated smooth muscle cell proliferation
+Pat7,TNF-A,Decrease,Immune cell positioning,leukocyte migration involved in inflammatory response; negative regulation of blood vessel endothelial cell migration; positive regulation of mononuclear cell migration
+Pat7,TNF-A,Decrease,Resolution,negative regulation of D-glucose import; negative regulation of DNA-templated transcription; negative regulation of L-glutamate import across plasma membrane; negative regulation of amyloid-beta clearance; negative regulation of apoptotic signaling pathway; negative regulation of bicellular tight junction assembly; negative regulation of bile acid secretion; negative regulation of branching involved in lung morphogenesis; negative regulation of extrinsic apoptotic signaling pathway in absence of ligand; negative regulation of fat cell differentiation; negative regulation of gene expression; negative regulation of heart rate; negative regulation of interleukin-6 production; negative regulation of lipid catabolic process; negative regulation of lipid storage; negative regulation of miRNA transcription; negative regulation of mitotic cell cycle; negative regulation of myelination; negative regulation of myoblast differentiation; negative regulation of neurogenesis; negative regulation of osteoblast differentiation; negative regulation of oxidative phosphorylation; negative regulation of protein-containing complex disassembly; negative regulation of signaling receptor activity; negative regulation of systemic arterial blood pressure; negative regulation of transcription by RNA polymerase II; negative regulation of vascular wound healing; negative regulation of viral genome replication
+Pat7,TNF-A,Decrease,Tissue construction / repair,extracellular matrix organization; liver regeneration
+Pat7,TNF-A,Decrease,Tissue destruction,endothelial cell apoptotic process; extrinsic apoptotic signaling pathway; extrinsic apoptotic signaling pathway via death domain receptors; intrinsic apoptotic signaling pathway in response to DNA damage; positive regulation of apoptotic process; positive regulation of extrinsic apoptotic signaling pathway; positive regulation of neuron apoptotic process; positive regulation of programmed cell death; regulation of endothelial cell apoptotic process
+Pat7,TRAIL,Decrease,Tissue destruction,TRAIL-activated apoptotic signaling pathway; apoptotic process; positive regulation of apoptotic process; positive regulation of extrinsic apoptotic signaling pathway
+Pat7,TRAP5,Decrease,Immune cell activation,negative regulation of macrophage cytokine production
+Pat7,TRAP5,Decrease,Resolution,negative regulation of inflammatory response; negative regulation of interleukin-1 beta production; negative regulation of interleukin-12 production; negative regulation of nitric oxide biosynthetic process; negative regulation of superoxide anion generation; negative regulation of tumor necrosis factor production
+Pat7,TRAP5,Decrease,Tissue destruction,bone resorption
+Pat7,VEGF,Decrease,Bone remodeling,positive regulation of osteoblast differentiation
+Pat7,VEGF,Decrease,Immune cell amplification,endothelial cell proliferation; neuroblast proliferation; positive regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis; positive regulation of cell population proliferation; positive regulation of cell proliferation by VEGF-activated platelet derived growth factor receptor signaling pathway; positive regulation of endothelial cell proliferation; positive regulation of epithelial cell proliferation; positive regulation of neuroblast proliferation
+Pat7,VEGF,Decrease,Immune cell positioning,basophil chemotaxis; cell migration involved in sprouting angiogenesis; endothelial cell chemotaxis; induction of positive chemotaxis; motor neuron migration; positive chemotaxis; positive regulation of blood vessel endothelial cell migration; positive regulation of cell migration; positive regulation of cell migration involved in sprouting angiogenesis; positive regulation of endothelial cell chemotaxis; positive regulation of endothelial cell chemotaxis by VEGF-activated vascular endothelial growth factor receptor signaling pathway; positive regulation of endothelial cell migration; positive regulation of leukocyte migration; positive regulation of mast cell chemotaxis; positive regulation of positive chemotaxis; positive regulation of trophoblast cell migration
+Pat7,VEGF,Decrease,Resolution,negative regulation of adherens junction organization; negative regulation of apoptotic process; negative regulation of blood-brain barrier permeability; negative regulation of cell-cell adhesion mediated by cadherin; negative regulation of epithelial to mesenchymal transition; negative regulation of establishment of endothelial barrier; negative regulation of fat cell differentiation; negative regulation of gene expression; negative regulation of miRNA transcription; negative regulation of transcription by RNA polymerase II
+Pat7,VEGF,Decrease,Tissue construction / repair,angiogenesis; epithelial cell differentiation; epithelial cell maturation; lymphangiogenesis; positive regulation of angiogenesis; positive regulation of epithelial tube formation; positive regulation of lymphangiogenesis; positive regulation of sprouting angiogenesis; sprouting angiogenesis; vascular wound healing
+Pat7,VEGF,Decrease,Tissue destruction,apoptotic process
+Pat9,EGF,Increase,Immune cell activation,regulation of receptor signaling pathway via JAK-STAT
+Pat9,EGF,Increase,Immune cell amplification,cerebellar granule cell precursor proliferation; epithelial cell proliferation; positive regulation of cell population proliferation; positive regulation of cerebellar granule cell precursor proliferation; positive regulation of endothelial cell proliferation
+Pat9,EGF,Increase,Immune cell positioning,positive regulation of cell migration; positive regulation of endothelial cell migration
+Pat9,EGF,Increase,Resolution,negative regulation of cholesterol efflux; negative regulation of secretion
+Pat9,EGF,Increase,Tissue construction / repair,angiogenesis; branching morphogenesis of an epithelial tube; positive regulation of epithelial tube formation
+Pat9,IL-13,Increase,Immune cell activation,macrophage activation; microglial cell activation; positive regulation of macrophage activation
+Pat9,IL-13,Increase,Immune cell amplification,positive regulation of B cell proliferation; positive regulation of pancreatic stellate cell proliferation; positive regulation of smooth muscle cell proliferation
+Pat9,IL-13,Increase,Resolution,negative regulation of complement-dependent cytotoxicity; negative regulation of endothelial cell apoptotic process; negative regulation of inflammatory response; negative regulation of lung ciliated cell differentiation; negative regulation of transforming growth factor beta production
+Pat9,LIF,Decrease,Immune cell amplification,fibroblast proliferation; negative regulation of cell population proliferation; positive regulation of cell population proliferation; positive regulation of fibroblast proliferation
+Pat9,LIF,Decrease,Resolution,negative regulation of ERK1 and ERK2 cascade; negative regulation of hormone secretion; negative regulation of meiotic nuclear division
+Pat9,LIF,Decrease,Tissue construction / repair,positive regulation of mesenchymal to epithelial transition involved in metanephros morphogenesis; regulation of metanephric nephron tubule epithelial cell differentiation
+Pat9,MIP-1d,Decrease,Immune cell positioning,cell chemotaxis; chemotaxis; positive chemotaxis; positive regulation of cell migration
+Pat9,TRAIL,Increase,Tissue destruction,TRAIL-activated apoptotic signaling pathway; apoptotic process; positive regulation of apoptotic process; positive regulation of extrinsic apoptotic signaling pathway
+PatMic1,EGF,Decrease,Immune cell activation,regulation of receptor signaling pathway via JAK-STAT
+PatMic1,EGF,Decrease,Immune cell amplification,cerebellar granule cell precursor proliferation; epithelial cell proliferation; positive regulation of cell population proliferation; positive regulation of cerebellar granule cell precursor proliferation; positive regulation of endothelial cell proliferation
+PatMic1,EGF,Decrease,Immune cell positioning,positive regulation of cell migration; positive regulation of endothelial cell migration
+PatMic1,EGF,Decrease,Resolution,negative regulation of cholesterol efflux; negative regulation of secretion
+PatMic1,EGF,Decrease,Tissue construction / repair,angiogenesis; branching morphogenesis of an epithelial tube; positive regulation of epithelial tube formation
+PatMic1,ENA-78,Decrease,Immune cell amplification,positive regulation of cell population proliferation
+PatMic1,ENA-78,Decrease,Immune cell positioning,chemotaxis; neutrophil chemotaxis
+PatMic1,Eotaxin,Decrease,Immune cell amplification,positive regulation of endothelial cell proliferation
+PatMic1,Eotaxin,Decrease,Immune cell positioning,chemotaxis; eosinophil chemotaxis; mast cell chemotaxis; positive regulation of cell migration
+PatMic1,Eotaxin,Decrease,Resolution,negative regulation of neurogenesis
+PatMic1,Eotaxin,Decrease,Tissue construction / repair,positive regulation of angiogenesis
+PatMic1,Flt-3L,Decrease,Immune cell amplification,positive regulation of cell population proliferation
+PatMic1,GDF-15,Increase,Immune cell positioning,negative regulation of leukocyte migration
+PatMic1,GDF-15,Increase,Resolution,negative regulation of SMAD protein signal transduction; negative regulation of appetite; negative regulation of growth hormone receptor signaling pathway; negative regulation of multicellular organism growth; negative regulation of transforming growth factor beta receptor signaling pathway
+PatMic1,GM-CSF,Decrease,Immune cell activation,cell surface receptor signaling pathway via JAK-STAT
+PatMic1,GM-CSF,Decrease,Immune cell amplification,cell population proliferation; positive regulation of cell population proliferation; positive regulation of leukocyte proliferation
+PatMic1,GM-CSF,Decrease,Immune cell positioning,positive regulation of cell migration
+PatMic1,GM-CSF,Decrease,Resolution,negative regulation of DNA-templated transcription; negative regulation of extrinsic apoptotic signaling pathway in absence of ligand
+PatMic1,GM-CSF,Decrease,Tissue construction / repair,epithelial fluid transport
+PatMic1,GRO,Decrease,Immune cell amplification,negative regulation of cell population proliferation
+PatMic1,GRO,Decrease,Immune cell positioning,chemotaxis
+PatMic1,Granzyme B,Increase,Resolution,negative regulation of translation
+PatMic1,Granzyme B,Increase,Tissue destruction,apoptotic process; granzyme-mediated programmed cell death signaling pathway
+PatMic1,IFN-A,Decrease,Immune cell activation,B cell activation involved in immune response; T cell activation involved in immune response; natural killer cell activation involved in immune response
+PatMic1,IFN-y,Decrease,Bone remodeling,positive regulation of osteoclast differentiation
+PatMic1,IFN-y,Decrease,Immune cell activation,astrocyte activation; cell surface receptor signaling pathway via JAK-STAT; macrophage activation involved in immune response; microglial cell activation; positive regulation of cytokine production
+PatMic1,IFN-y,Decrease,Immune cell amplification,negative regulation of smooth muscle cell proliferation; positive regulation of cell population proliferation
+PatMic1,IFN-y,Decrease,Immune cell positioning,positive regulation of epithelial cell migration
+PatMic1,IFN-y,Decrease,Resolution,negative regulation of DNA-templated transcription; negative regulation of amyloid-beta clearance; negative regulation of epithelial cell differentiation; negative regulation of gene expression; negative regulation of interleukin-17 production; negative regulation of transcription by RNA polymerase II
+PatMic1,IFN-y,Decrease,Tissue destruction,apoptotic process; extrinsic apoptotic signaling pathway; positive regulation of smooth muscle cell apoptotic process
+PatMic1,IL-10,Decrease,Immune cell activation,negative regulation of cytokine production; negative regulation of cytokine production involved in immune response; negative regulation of myeloid dendritic cell activation; positive regulation of cytokine production; positive regulation of macrophage activation; positive regulation of receptor signaling pathway via JAK-STAT
+PatMic1,IL-10,Decrease,Immune cell amplification,B cell proliferation; negative regulation of B cell proliferation; negative regulation of T cell proliferation; negative regulation of cell population proliferation; negative regulation of vascular associated smooth muscle cell proliferation; positive regulation of endothelial cell proliferation; positive regulation of vascular associated smooth muscle cell proliferation
+PatMic1,IL-10,Decrease,Immune cell positioning,leukocyte chemotaxis
+PatMic1,IL-10,Decrease,Resolution,negative regulation of MHC class II biosynthetic process; negative regulation of apoptotic process; negative regulation of autophagy; negative regulation of chemokine (C-C motif) ligand 5 production; negative regulation of chronic inflammatory response to antigenic stimulus; negative regulation of cytokine activity; negative regulation of heterotypic cell-cell adhesion; negative regulation of inflammatory response; negative regulation of interferon-alpha production; negative regulation of interleukin-1 production; negative regulation of interleukin-12 production; negative regulation of interleukin-18 production; negative regulation of interleukin-6 production; negative regulation of interleukin-8 production; negative regulation of membrane protein ectodomain proteolysis; negative regulation of mitotic cell cycle; negative regulation of nitric oxide biosynthetic process; negative regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway; negative regulation of tumor necrosis factor production; negative regulation of type II interferon production
+PatMic1,IL-10,Decrease,Tissue construction / repair,liver regeneration; positive regulation of sprouting angiogenesis
+PatMic1,IL-10,Decrease,Tissue destruction,endothelial cell apoptotic process; positive regulation of B cell apoptotic process
+PatMic1,IL-12p40,Decrease,Bone remodeling,positive regulation of osteoclast differentiation
+PatMic1,IL-12p40,Decrease,Immune cell activation,cell surface receptor signaling pathway via JAK-STAT; natural killer cell activation; natural killer cell activation involved in immune response; positive regulation of NK T cell activation; positive regulation of natural killer cell activation; regulation of cytokine production
+PatMic1,IL-12p40,Decrease,Immune cell amplification,T cell proliferation; negative regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis; negative regulation of smooth muscle cell proliferation; positive regulation of NK T cell proliferation; positive regulation of T cell proliferation; positive regulation of activated T cell proliferation; positive regulation of lymphocyte proliferation; positive regulation of mononuclear cell proliferation; positive regulation of natural killer cell proliferation
+PatMic1,IL-12p40,Decrease,Immune cell positioning,cell migration
+PatMic1,IL-12p40,Decrease,Resolution,negative regulation of inflammatory response to antigenic stimulus; negative regulation of interleukin-10 production; negative regulation of interleukin-17 production; negative regulation of protein secretion; negative regulation of vascular endothelial growth factor signaling pathway
+PatMic1,IL-12p40,Decrease,Tissue destruction,positive regulation of smooth muscle cell apoptotic process
+PatMic1,IL-12p70,Decrease,Immune cell activation,positive regulation of NK T cell activation; positive regulation of natural killer cell activation
+PatMic1,IL-12p70,Decrease,Immune cell amplification,negative regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis; negative regulation of smooth muscle cell proliferation; positive regulation of lymphocyte proliferation; positive regulation of mononuclear cell proliferation
+PatMic1,IL-12p70,Decrease,Immune cell positioning,cell migration; positive regulation of dendritic cell chemotaxis
+PatMic1,IL-12p70,Decrease,Resolution,negative regulation of interleukin-17 production; negative regulation of protein secretion; negative regulation of vascular endothelial growth factor signaling pathway
+PatMic1,IL-12p70,Decrease,Tissue destruction,extrinsic apoptotic signaling pathway; positive regulation of smooth muscle cell apoptotic process
+PatMic1,IL-13,Decrease,Immune cell activation,macrophage activation; microglial cell activation; positive regulation of macrophage activation
+PatMic1,IL-13,Decrease,Immune cell amplification,positive regulation of B cell proliferation; positive regulation of pancreatic stellate cell proliferation; positive regulation of smooth muscle cell proliferation
+PatMic1,IL-13,Decrease,Resolution,negative regulation of complement-dependent cytotoxicity; negative regulation of endothelial cell apoptotic process; negative regulation of inflammatory response; negative regulation of lung ciliated cell differentiation; negative regulation of transforming growth factor beta production
+PatMic1,IL-15,Decrease,Immune cell activation,neutrophil activation; positive regulation of cytokine production
+PatMic1,IL-15,Decrease,Immune cell amplification,NK T cell proliferation; natural killer cell proliferation; positive regulation of T cell proliferation; positive regulation of cell population proliferation; positive regulation of natural killer cell proliferation
+PatMic1,IL-15,Decrease,Resolution,negative regulation of cold-induced thermogenesis
+PatMic1,IL-17A,Decrease,Bone remodeling,positive regulation of osteoclast differentiation
+PatMic1,IL-17A,Decrease,Immune cell activation,fibroblast activation; innate immune response; positive regulation of cytokine production involved in inflammatory response
+PatMic1,IL-17A,Decrease,Immune cell amplification,keratinocyte proliferation
+PatMic1,IL-17A,Decrease,Immune cell positioning,granulocyte migration
+PatMic1,IL-17A,Decrease,Resolution,negative regulation of inflammatory response to wounding
+PatMic1,IL-17A,Decrease,Tissue construction / repair,intestinal epithelial structure maintenance
+PatMic1,IL-17A,Decrease,Tissue destruction,apoptotic process; cell death
+PatMic1,IL-2,Decrease,Immune cell activation,leukocyte activation involved in immune response; natural killer cell activation
+PatMic1,IL-2,Decrease,Immune cell amplification,"activated T cell proliferation; negative regulation of lymphocyte proliferation; positive regulation of B cell proliferation; positive regulation of activated T cell proliferation; positive regulation of cell population proliferation; regulation of CD4-positive, alpha-beta T cell proliferation; regulation of T cell homeostatic proliferation"
+PatMic1,IL-2,Decrease,Resolution,negative regulation of B cell apoptotic process; negative regulation of T-helper 17 cell differentiation; negative regulation of apoptotic process; negative regulation of inflammatory response
+PatMic1,IL-2,Decrease,Tissue destruction,extrinsic apoptotic signaling pathway in absence of ligand
+PatMic1,IL-6,Decrease,Bone remodeling,positive regulation of osteoblast differentiation
+PatMic1,IL-6,Decrease,Immune cell activation,cell surface receptor signaling pathway via JAK-STAT; platelet activation; positive regulation of B cell activation; positive regulation of T-helper 2 cell cytokine production; positive regulation of cytokine production involved in inflammatory response; positive regulation of receptor signaling pathway via JAK-STAT; regulation of astrocyte activation; regulation of microglial cell activation
+PatMic1,IL-6,Decrease,Immune cell amplification,hepatocyte proliferation; negative regulation of cell population proliferation; positive regulation of T cell proliferation; positive regulation of cell population proliferation; positive regulation of glial cell proliferation; positive regulation of smooth muscle cell proliferation
+PatMic1,IL-6,Decrease,Immune cell positioning,monocyte chemotaxis; positive regulation of leukocyte chemotaxis
+PatMic1,IL-6,Decrease,Resolution,negative regulation of apoptotic process; negative regulation of bone resorption; negative regulation of chemokine production; negative regulation of collagen biosynthetic process; negative regulation of fat cell differentiation; negative regulation of interleukin-1-mediated signaling pathway; negative regulation of lipid storage; negative regulation of neurogenesis; negative regulation of primary miRNA processing
+PatMic1,IL-6,Decrease,Tissue construction / repair,liver regeneration; positive regulation of epithelial to mesenchymal transition; regulation of angiogenesis
+PatMic1,IL-6,Decrease,Tissue destruction,neutrophil apoptotic process; positive regulation of apoptotic DNA fragmentation; positive regulation of apoptotic process; positive regulation of type B pancreatic cell apoptotic process
+PatMic1,IL-7,Decrease,Immune cell amplification,B cell proliferation; positive regulation of B cell proliferation; positive regulation of cell population proliferation
+PatMic1,IL-7,Decrease,Resolution,negative regulation of apoptotic process; negative regulation of extrinsic apoptotic signaling pathway in absence of ligand
+PatMic1,IL-7,Decrease,Tissue destruction,bone resorption; extrinsic apoptotic signaling pathway
+PatMic1,IL-8,Decrease,Immune cell activation,neutrophil activation
+PatMic1,IL-8,Decrease,Immune cell amplification,negative regulation of cell population proliferation
+PatMic1,IL-8,Decrease,Immune cell positioning,chemotaxis; induction of positive chemotaxis; neutrophil chemotaxis; positive regulation of neutrophil chemotaxis
+PatMic1,IL-8,Decrease,Resolution,negative regulation of G protein-coupled receptor signaling pathway; negative regulation of cell adhesion molecule production; negative regulation of gene expression
+PatMic1,IL-8,Decrease,Tissue construction / repair,angiogenesis; positive regulation of angiogenesis
+PatMic1,IP-10,Decrease,Immune cell activation,antiviral innate immune response; endothelial cell activation
+PatMic1,IP-10,Decrease,Immune cell amplification,positive regulation of cell population proliferation; regulation of cell population proliferation
+PatMic1,IP-10,Decrease,Immune cell positioning,T cell chemotaxis; chemotaxis; neutrophil chemotaxis; positive chemotaxis; positive regulation of T cell migration; positive regulation of monocyte chemotaxis; regulation of T cell chemotaxis
+PatMic1,IP-10,Decrease,Resolution,negative regulation of angiogenesis; negative regulation of myoblast differentiation; negative regulation of myoblast fusion
+PatMic1,IP-10,Decrease,Tissue destruction,regulation of apoptotic process
+PatMic1,MCP-1,Decrease,Immune cell activation,cell surface receptor signaling pathway via JAK-STAT; positive regulation of T cell activation
+PatMic1,MCP-1,Decrease,Immune cell amplification,negative regulation of vascular endothelial cell proliferation
+PatMic1,MCP-1,Decrease,Immune cell positioning,astrocyte cell migration; chemotaxis; eosinophil chemotaxis; macrophage chemotaxis; monocyte chemotaxis; negative regulation of natural killer cell chemotaxis; positive regulation of cell migration
+PatMic1,MCP-1,Decrease,Resolution,negative regulation of G1/S transition of mitotic cell cycle; negative regulation of glial cell apoptotic process; negative regulation of neuron apoptotic process
+PatMic1,MCP-1,Decrease,Tissue construction / repair,angiogenesis
+PatMic1,MCP-1,Decrease,Tissue destruction,positive regulation of apoptotic cell clearance; positive regulation of endothelial cell apoptotic process
+PatMic1,MCP-3,Decrease,Immune cell positioning,chemotaxis; eosinophil chemotaxis; monocyte chemotaxis; positive regulation of cell migration; positive regulation of natural killer cell chemotaxis
+PatMic1,MDC,Decrease,Immune cell positioning,chemotaxis; eosinophil chemotaxis; positive regulation of cell migration
+PatMic1,MIP-1A,Decrease,Bone remodeling,osteoblast differentiation
+PatMic1,MIP-1A,Decrease,Immune cell activation,cell activation; positive regulation of microglial cell activation
+PatMic1,MIP-1A,Decrease,Immune cell positioning,T cell chemotaxis; astrocyte cell migration; cell chemotaxis; chemotaxis; eosinophil chemotaxis; granulocyte chemotaxis; lymphocyte chemotaxis; macrophage chemotaxis; monocyte chemotaxis; neutrophil chemotaxis; positive chemotaxis; positive regulation of cell migration; positive regulation of microglial cell migration; positive regulation of natural killer cell chemotaxis
+PatMic1,MIP-1A,Decrease,Resolution,negative regulation by host of viral transcription; negative regulation of bone mineralization; negative regulation of gene expression; negative regulation of osteoclast differentiation
+PatMic1,MIP-1A,Decrease,Tissue destruction,positive regulation of neuron apoptotic process
+PatMic1,MIP-1B,Decrease,Immune cell positioning,eosinophil chemotaxis; positive regulation of cell migration; positive regulation of natural killer cell chemotaxis
+PatMic1,MIP-1B,Decrease,Resolution,negative regulation by host of viral transcription
+PatMic1,MMP-2,Increase,Immune cell amplification,positive regulation of vascular associated smooth muscle cell proliferation
+PatMic1,MMP-2,Increase,Immune cell positioning,cell migration; macrophage chemotaxis; positive regulation of cell migration
+PatMic1,MMP-2,Increase,Resolution,negative regulation of cell adhesion; negative regulation of vasoconstriction
+PatMic1,MMP-2,Increase,Tissue construction / repair,angiogenesis; extracellular matrix organization; peripheral nervous system axon regeneration
+PatMic1,MMP-2,Increase,Tissue destruction,positive regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway
+PatMic1,Periostin,Increase,Immune cell positioning,positive regulation of smooth muscle cell migration
+PatMic1,Periostin,Increase,Resolution,negative regulation of cell-matrix adhesion; negative regulation of substrate adhesion-dependent cell spreading
+PatMic1,Periostin,Increase,Tissue construction / repair,bone regeneration; extracellular matrix organization
+PatMic1,RANKL,Decrease,Bone remodeling,osteoclast development; osteoclast differentiation; positive regulation of osteoclast development; positive regulation of osteoclast differentiation
+PatMic1,RANKL,Decrease,Immune cell activation,positive regulation of T cell activation
+PatMic1,RANKL,Decrease,Immune cell amplification,mammary gland epithelial cell proliferation; osteoclast proliferation
+PatMic1,RANKL,Decrease,Immune cell positioning,monocyte chemotaxis
+PatMic1,RANKL,Decrease,Resolution,negative regulation of transcription by RNA polymerase II
+PatMic1,RANKL,Decrease,Tissue destruction,bone resorption; positive regulation of bone resorption; positive regulation of extrinsic apoptotic signaling pathway
+PatMic1,SCF,Increase,Immune cell amplification,T cell proliferation; mast cell proliferation; positive regulation of T cell proliferation; positive regulation of cell population proliferation; positive regulation of hematopoietic stem cell proliferation; positive regulation of mast cell proliferation
+PatMic1,SCF,Increase,Immune cell positioning,mast cell migration; melanocyte migration; neural crest cell migration; positive regulation of leukocyte migration
+PatMic1,SCF,Increase,Resolution,negative regulation of mast cell apoptotic process
+PatMic1,SCF,Increase,Tissue destruction,ectopic germ cell programmed cell death; extrinsic apoptotic signaling pathway in absence of ligand; mast cell apoptotic process
+PatMic1,TNF-A,Decrease,Bone remodeling,osteoclast differentiation; positive regulation of osteoclast differentiation
+PatMic1,TNF-A,Decrease,Immune cell activation,antiviral innate immune response; astrocyte activation; cell surface receptor signaling pathway via JAK-STAT; macrophage activation involved in immune response; microglial cell activation; negative regulation of cytokine production involved in immune response; positive regulation of cytokine production; positive regulation of cytokine production involved in inflammatory response; positive regulation of neutrophil activation
+PatMic1,TNF-A,Decrease,Immune cell amplification,epithelial cell proliferation involved in salivary gland morphogenesis; negative regulation of endothelial cell proliferation; positive regulation of glial cell proliferation; positive regulation of hepatocyte proliferation; positive regulation of smooth muscle cell proliferation; positive regulation of synoviocyte proliferation; positive regulation of vascular associated smooth muscle cell proliferation
+PatMic1,TNF-A,Decrease,Immune cell positioning,leukocyte migration involved in inflammatory response; negative regulation of blood vessel endothelial cell migration; positive regulation of mononuclear cell migration
+PatMic1,TNF-A,Decrease,Resolution,negative regulation of D-glucose import; negative regulation of DNA-templated transcription; negative regulation of L-glutamate import across plasma membrane; negative regulation of amyloid-beta clearance; negative regulation of apoptotic signaling pathway; negative regulation of bicellular tight junction assembly; negative regulation of bile acid secretion; negative regulation of branching involved in lung morphogenesis; negative regulation of extrinsic apoptotic signaling pathway in absence of ligand; negative regulation of fat cell differentiation; negative regulation of gene expression; negative regulation of heart rate; negative regulation of interleukin-6 production; negative regulation of lipid catabolic process; negative regulation of lipid storage; negative regulation of miRNA transcription; negative regulation of mitotic cell cycle; negative regulation of myelination; negative regulation of myoblast differentiation; negative regulation of neurogenesis; negative regulation of osteoblast differentiation; negative regulation of oxidative phosphorylation; negative regulation of protein-containing complex disassembly; negative regulation of signaling receptor activity; negative regulation of systemic arterial blood pressure; negative regulation of transcription by RNA polymerase II; negative regulation of vascular wound healing; negative regulation of viral genome replication
+PatMic1,TNF-A,Decrease,Tissue construction / repair,extracellular matrix organization; liver regeneration
+PatMic1,TNF-A,Decrease,Tissue destruction,endothelial cell apoptotic process; extrinsic apoptotic signaling pathway; extrinsic apoptotic signaling pathway via death domain receptors; intrinsic apoptotic signaling pathway in response to DNA damage; positive regulation of apoptotic process; positive regulation of extrinsic apoptotic signaling pathway; positive regulation of neuron apoptotic process; positive regulation of programmed cell death; regulation of endothelial cell apoptotic process
+PatMic1,TRAIL,Decrease,Tissue destruction,TRAIL-activated apoptotic signaling pathway; apoptotic process; positive regulation of apoptotic process; positive regulation of extrinsic apoptotic signaling pathway
+PatMic1,VEGF,Decrease,Bone remodeling,positive regulation of osteoblast differentiation
+PatMic1,VEGF,Decrease,Immune cell amplification,endothelial cell proliferation; neuroblast proliferation; positive regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis; positive regulation of cell population proliferation; positive regulation of cell proliferation by VEGF-activated platelet derived growth factor receptor signaling pathway; positive regulation of endothelial cell proliferation; positive regulation of epithelial cell proliferation; positive regulation of neuroblast proliferation
+PatMic1,VEGF,Decrease,Immune cell positioning,basophil chemotaxis; cell migration involved in sprouting angiogenesis; endothelial cell chemotaxis; induction of positive chemotaxis; motor neuron migration; positive chemotaxis; positive regulation of blood vessel endothelial cell migration; positive regulation of cell migration; positive regulation of cell migration involved in sprouting angiogenesis; positive regulation of endothelial cell chemotaxis; positive regulation of endothelial cell chemotaxis by VEGF-activated vascular endothelial growth factor receptor signaling pathway; positive regulation of endothelial cell migration; positive regulation of leukocyte migration; positive regulation of mast cell chemotaxis; positive regulation of positive chemotaxis; positive regulation of trophoblast cell migration
+PatMic1,VEGF,Decrease,Resolution,negative regulation of adherens junction organization; negative regulation of apoptotic process; negative regulation of blood-brain barrier permeability; negative regulation of cell-cell adhesion mediated by cadherin; negative regulation of epithelial to mesenchymal transition; negative regulation of establishment of endothelial barrier; negative regulation of fat cell differentiation; negative regulation of gene expression; negative regulation of miRNA transcription; negative regulation of transcription by RNA polymerase II
+PatMic1,VEGF,Decrease,Tissue construction / repair,angiogenesis; epithelial cell differentiation; epithelial cell maturation; lymphangiogenesis; positive regulation of angiogenesis; positive regulation of epithelial tube formation; positive regulation of lymphangiogenesis; positive regulation of sprouting angiogenesis; sprouting angiogenesis; vascular wound healing
+PatMic1,VEGF,Decrease,Tissue destruction,apoptotic process

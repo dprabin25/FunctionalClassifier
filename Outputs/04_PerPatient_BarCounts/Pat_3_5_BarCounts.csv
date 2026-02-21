@@ -1,0 +1,11 @@
+Major_Functional_Class,Direction,Count
+Immune cell activation,Decrease,19
+Immune cell amplification,Decrease,18
+Immune cell positioning,Decrease,17
+Tissue destruction,Decrease,14
+Tissue construction / repair,Decrease,10
+Resolution,Decrease,20
+Bone remodeling,Decrease,5
+Immune cell amplification,Increase,1
+Immune cell positioning,Increase,2
+Resolution,Increase,1
