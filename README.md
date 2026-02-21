@@ -1,4 +1,4 @@
-# Protein Expression by Functional Class: Patient-Level Summaries
+# FunctionalClassifier
 
 This repository provides a small, focused data pipeline for turning per‑patient protein expression calls into a set of well-documented CSV tables. These tables quantify, for each patient, how many proteins increase or decrease within broad functional classes. Horizontal diverging bar plots are optional visualizations built on top of these tables; the **CSVs are the primary scientific outputs**.
 
